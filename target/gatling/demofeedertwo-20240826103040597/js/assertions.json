@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.check.DemoFeederTwo",
+  "simulationId": "demofeedertwo",
+  "start": 1724668240597,
+  "description": "rtyun",
+  "scenarios": ["Abercrombie Website User Journey"],
+  "assertions": [
+
+  ]
+}

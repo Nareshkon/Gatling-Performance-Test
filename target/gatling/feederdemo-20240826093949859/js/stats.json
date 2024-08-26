@@ -1,0 +1,707 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 25,
+        "ok": 25,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 21,
+        "ok": 21,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 874,
+        "ok": 874,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 410,
+        "ok": 410,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 285,
+        "ok": 285,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 543,
+        "ok": 543,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 585,
+        "ok": 585,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 806,
+        "ok": 806,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 861,
+        "ok": 861,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 23,
+    "percentage": 92
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 2,
+    "percentage": 8
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.4716981132075472,
+        "ok": 0.4716981132075472,
+        "ko": 0
+    }
+},
+"contents": {
+"req_goto--shop-wd---31f30": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, ",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, ",
+"pathFormatted": "req_goto--shop-wd---31f30",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, ",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 31,
+        "ok": 31,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 748,
+        "ok": 748,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 390,
+        "ok": 390,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 359,
+        "ok": 359,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 390,
+        "ok": 390,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 569,
+        "ok": 569,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 712,
+        "ok": 712,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 741,
+        "ok": 741,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.03773584905660377,
+        "ok": 0.03773584905660377,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---facc2": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals,  Redirect 1",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals,  Redirect 1",
+"pathFormatted": "req_goto--shop-wd---facc2",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals,  Redirect 1",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 493,
+        "ok": 493,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 569,
+        "ok": 569,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 541,
+        "ok": 541,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 34,
+        "ok": 34,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 562,
+        "ok": 562,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 566,
+        "ok": 566,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 568,
+        "ok": 568,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 569,
+        "ok": 569,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 3,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.05660377358490566,
+        "ok": 0.05660377358490566,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---e6e7a": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03",
+"pathFormatted": "req_goto--shop-wd---e6e7a",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03",
+    "numberOfRequests": {
+        "total": 4,
+        "ok": 4,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 27,
+        "ok": 27,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 72,
+        "ok": 72,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 52,
+        "ok": 52,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 18,
+        "ok": 18,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 54,
+        "ok": 54,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 66,
+        "ok": 66,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 71,
+        "ok": 71,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 72,
+        "ok": 72,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 4,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.07547169811320754,
+        "ok": 0.07547169811320754,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---a3348": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1",
+"pathFormatted": "req_goto--shop-wd---a3348",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1",
+    "numberOfRequests": {
+        "total": 6,
+        "ok": 6,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 496,
+        "ok": 496,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 874,
+        "ok": 874,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 665,
+        "ok": 665,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 140,
+        "ok": 140,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 627,
+        "ok": 627,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 783,
+        "ok": 783,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 861,
+        "ok": 861,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 871,
+        "ok": 871,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 4,
+    "percentage": 67
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 2,
+    "percentage": 33
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.11320754716981132,
+        "ok": 0.11320754716981132,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---5abc9": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P",
+"pathFormatted": "req_goto--shop-wd---5abc9",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 21,
+        "ok": 21,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 65,
+        "ok": 65,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 22,
+        "ok": 22,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 43,
+        "ok": 43,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 54,
+        "ok": 54,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 63,
+        "ok": 63,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 65,
+        "ok": 65,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.03773584905660377,
+        "ok": 0.03773584905660377,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---a392a": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P Redirect 1",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P Redirect 1",
+"pathFormatted": "req_goto--shop-wd---a392a",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P Redirect 1",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 542,
+        "ok": 542,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 592,
+        "ok": 592,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 562,
+        "ok": 562,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 21,
+        "ok": 21,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 553,
+        "ok": 553,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 573,
+        "ok": 573,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 588,
+        "ok": 588,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 591,
+        "ok": 591,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 3,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.05660377358490566,
+        "ok": 0.05660377358490566,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---24866": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout",
+"pathFormatted": "req_goto--shop-wd---24866",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout",
+    "numberOfRequests": {
+        "total": 2,
+        "ok": 2,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 30,
+        "ok": 30,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 77,
+        "ok": 77,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 54,
+        "ok": 54,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 24,
+        "ok": 24,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 54,
+        "ok": 54,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 65,
+        "ok": 65,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 75,
+        "ok": 75,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 77,
+        "ok": 77,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 2,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.03773584905660377,
+        "ok": 0.03773584905660377,
+        "ko": 0
+    }
+}
+    },"req_goto--shop-wd---3be29": {
+        "type": "REQUEST",
+        "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout Redirect 1",
+"path": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout Redirect 1",
+"pathFormatted": "req_goto--shop-wd---3be29",
+"stats": {
+    "name": "Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout Redirect 1",
+    "numberOfRequests": {
+        "total": 3,
+        "ok": 3,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 576,
+        "ok": 576,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 617,
+        "ok": 617,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 592,
+        "ok": 592,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 18,
+        "ok": 18,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 582,
+        "ok": 582,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 600,
+        "ok": 600,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 614,
+        "ok": 614,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 616,
+        "ok": 616,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 3,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 0,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.05660377358490566,
+        "ok": 0.05660377358490566,
+        "ko": 0
+    }
+}
+    }
+}
+
+}

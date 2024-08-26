@@ -1,0 +1,36 @@
+RUN	com.gatling.check.FeederDemo	feederdemo	1724665189859	TestRun	3.6.1
+USER	Abercrombie Website	START	1724665191769
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, 	1724665192797	1724665193545	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals,  Redirect 1	1724665193553	1724665194122	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03	1724665195238	1724665195265	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1	1724665195266	1724665195851	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1	1724665196855	1724665197351	OK	 
+USER	Abercrombie Website	END	1724665197353
+USER	Abercrombie Website	START	1724665203756
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P	1724665204758	1724665204823	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P Redirect 1	1724665204823	1724665205415	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout	1724665206418	1724665206448	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout Redirect 1	1724665206448	1724665207065	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals,  Redirect 1	1724665208068	1724665208561	OK	 
+USER	Abercrombie Website	END	1724665208562
+USER	Abercrombie Website	START	1724665215756
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03	1724665216759	1724665216823	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1	1724665216824	1724665217698	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03	1724665218700	1724665218743	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1	1724665218744	1724665219412	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P Redirect 1	1724665220416	1724665220958	OK	 
+USER	Abercrombie Website	END	1724665220959
+USER	Abercrombie Website	START	1724665227778
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout	1724665228779	1724665228856	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout Redirect 1	1724665228857	1724665229433	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, 	1724665230437	1724665230468	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals,  Redirect 1	1724665230468	1724665231030	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1	1724665232033	1724665232854	OK	 
+USER	Abercrombie Website	END	1724665232856
+USER	Abercrombie Website	START	1724665239757
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03	1724665240759	1724665240831	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03 Redirect 1	1724665240832	1724665241375	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P	1724665242379	1724665242400	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P Redirect 1	1724665242400	1724665242953	OK	 
+REQUEST		Goto /shop/wd, /shop/wd/mens-new-arrivals, /shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03, https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P, https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout Redirect 1	1724665243956	1724665244538	OK	 
+USER	Abercrombie Website	END	1724665244540

@@ -1,0 +1,7 @@
+RUN	com.gatling.check.DemoFeederTwo	demofeedertwo	1724668021884	0	3.6.1
+USER	Abercrombie Website User Journey	START	1724668023765
+REQUEST		Goto Home Page	1724668023808	1724668025097	OK	 
+USER	Abercrombie Website User Journey	END	1724668026241
+USER	Abercrombie Website User Journey	START	1724668038754
+REQUEST		Goto PLP Page	1724668038756	1724668040349	OK	 
+USER	Abercrombie Website User Journey	END	1724668041392

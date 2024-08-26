@@ -1,0 +1,11 @@
+RUN	com.gatling.check.FeederDemo	feederdemo	1724664371996	test	3.6.1
+USER	Abercrombie Website	START	1724664372064
+USER	Abercrombie Website	END	1724664372073
+USER	Abercrombie Website	START	1724664384053
+USER	Abercrombie Website	END	1724664384054
+USER	Abercrombie Website	START	1724664396052
+USER	Abercrombie Website	END	1724664396053
+USER	Abercrombie Website	START	1724664408052
+USER	Abercrombie Website	END	1724664408053
+USER	Abercrombie Website	START	1724664420051
+USER	Abercrombie Website	END	1724664420051
