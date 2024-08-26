@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.check.PerformanceTest",
+  "simulationId": "performancetest",
+  "start": 1724644000624,
+  "description": "",
+  "scenarios": ["User Journey on Abercrombie Website"],
+  "assertions": [
+
+  ]
+}

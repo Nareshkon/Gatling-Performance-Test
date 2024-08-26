@@ -58,7 +58,7 @@ class PerformanceTest extends Simulation {
         .check(status.is(200))
     )
 
-  // Define the load simulation: ramp up to 200 users over 60 seconds
+  // Define the load simulation: ramp up to 10 users over 60 seconds
   setUp(
     scn.inject(
       rampUsers(10) during (60.seconds)
