@@ -5,7 +5,7 @@ import scala.concurrent.duration._
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
 
-class PerformanceTest extends Simulation {
+class PerformanceCheck extends Simulation {
 
   val httpProtocol = http
     .baseUrl("https://www.abercrombie.com/")
@@ -61,7 +61,8 @@ class PerformanceTest extends Simulation {
   // Define the load simulation: ramp up to 200 users over 60 seconds
   setUp(
     scn.inject(
-      rampUsers(10) during (60.seconds)
+      rampUsers(150) during (60.seconds)
     )
   ).protocols(httpProtocol)
 }
+
