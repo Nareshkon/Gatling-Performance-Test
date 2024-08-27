@@ -32,7 +32,6 @@ class FeederDemo extends Simulation{
     .repeat(3) {
       feed(feeder)
         .exec { session =>
-          println("Name:  " + session("name").as[String])
           println("Page:  " + session("Page").as[String])
           println("EndPoint:  " + session("Endpoint").as[String])
           session
@@ -49,7 +48,7 @@ class FeederDemo extends Simulation{
 
   setUp(
     scn.inject(
-      rampUsers(5) during (60.seconds)
+      rampUsers(10) during (60.seconds)
     )
   ).protocols(httpProtocol)
 }

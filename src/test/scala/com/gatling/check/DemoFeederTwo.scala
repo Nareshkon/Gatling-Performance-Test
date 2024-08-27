@@ -34,7 +34,8 @@ class DemoFeederTwo extends Simulation {
     .repeat(5) {
       feed(feeder) // Load the next row from the feeder
         .exec { session =>
-          println(s"User: ${session("name").as[String]} is navigating to ${session("Page").as[String]} at endpoint ${session("Endpoint").as[String]}")
+          println("Page:  " + session("Page").as[String])
+          println("EndPoint:  " + session("Endpoint").as[String])
           session
         }
         .exec(

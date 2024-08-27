@@ -1,6 +1,6 @@
- name,Page, Endpoint
-Naresh,Home Page,https://www.abercrombie.com/shop/wd
-Sachin,PLP Page,https://www.abercrombie.com/shop/wd/mens-new-arrivals
-Ravi,PDP Page,https://www.abercrombie.com/shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03
-Gautam,Cart,https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P
-Neel,Checkout,https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout
+Page, Endpoint
+Home Page,https://www.abercrombie.com/shop/wd
+PLP Page,https://www.abercrombie.com/shop/wd/mens-new-arrivals
+PDP Page,https://www.abercrombie.com/shop/wd/p/cropped-twill-zip-shirt-jacket-56348829?categoryId=12835&faceout=model&seq=03
+Cart,https://www.abercrombie.com/shop/OrderItemDisplayView?storeId=11203&catalogId=10901&langId=-1&orderStatus=P
+Checkout,https://www.abercrombie.com/shop/OrderCheckoutDisplayView?storeId=11203&catalogId=10901&langId=-1&doInventory=N&InvRepuCheckMode=checkout&URL=OrderCheckoutDisplayView&removeSoldOutIems=true&errpage=OrderItemDisplayView&checkoutMode=webCheckout
