@@ -1,0 +1,2092 @@
+RUN	com.gatling.check.FirefoxTest	firefoxtest	1724854511183	FireFoxTest	3.6.1
+USER	Full User Journey on Firefox	START	1724854513601
+USER	Full User Journey on Firefox	START	1724854514095
+USER	Full User Journey on Firefox	START	1724854514598
+USER	Full User Journey on Firefox	START	1724854515093
+REQUEST		Load Computers List	1724854513624	1724854515519	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854514095	1724854515519	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854514599	1724854515519	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854515606
+REQUEST		Search for a Computer	1724854515558	1724854515844	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854515558	1724854515848	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854515558	1724854515853	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854515094	1724854515962	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854516101
+REQUEST		View Computer Details	1724854515855	1724854516138	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854515855	1724854516138	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854515870	1724854516163	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854515978	1724854516266	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854516152	1724854516432	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854516152	1724854516443	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854515607	1724854516488	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854516177	1724854516488	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854516272	1724854516559	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854516595
+REQUEST		Delete a Computer	1724854516442	1724854516722	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854516740
+REQUEST		Delete a Computer	1724854516457	1724854516743	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854516751
+REQUEST		Search for a Computer	1724854516503	1724854516791	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854516503	1724854516800	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854516813
+REQUEST		Add a New Computer	1724854516564	1724854516853	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854516101	1724854516941	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854516797	1724854517080	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854517093
+REQUEST		Delete a Computer	1724854516858	1724854517149	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854517157
+REQUEST		Search for a Computer	1724854516953	1724854517236	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854517094	1724854517380	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854516596	1724854517449	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854517249	1724854517530	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854517603
+REQUEST		Delete a Computer	1724854517387	1724854517676	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854517681
+REQUEST		Search for a Computer	1724854517464	1724854517747	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854517542	1724854517820	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854517094	1724854517940	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854517759	1724854518040	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854518102
+REQUEST		Delete a Computer	1724854517836	1724854518112	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854518117
+REQUEST		Search for a Computer	1724854517944	1724854518220	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854518054	1724854518336	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854517604	1724854518464	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854518226	1724854518517	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854518598
+REQUEST		Delete a Computer	1724854518350	1724854518630	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854518645
+REQUEST		Search for a Computer	1724854518474	1724854518755	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854518520	1724854518797	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854518103	1724854518958	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854518768	1724854519048	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854518814	1724854519088	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854519094
+USER	Full User Journey on Firefox	START	1724854519093
+REQUEST		Search for a Computer	1724854518970	1724854519249	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854519064	1724854519342	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854518598	1724854519453	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854519263	1724854519543	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854519602
+REQUEST		Delete a Computer	1724854519356	1724854519636	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854519649
+REQUEST		Search for a Computer	1724854519465	1724854519746	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854519556	1724854519851	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854519094	1724854519926	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854519757	1724854520035	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854520098
+REQUEST		Delete a Computer	1724854519866	1724854520146	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854520160
+REQUEST		Search for a Computer	1724854519944	1724854520224	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854520052	1724854520346	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854519603	1724854520433	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854520236	1724854520510	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854520608
+REQUEST		Delete a Computer	1724854520361	1724854520649	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854520655
+REQUEST		Search for a Computer	1724854520438	1724854520711	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854520514	1724854520789	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854520099	1724854520973	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854520715	1724854520985	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854520792	1724854521065	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854521069
+USER	Full User Journey on Firefox	START	1724854521100
+REQUEST		Search for a Computer	1724854520977	1724854521262	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854520992	1724854521267	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854520609	1724854521466	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854521274	1724854521544	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854521552
+REQUEST		View Computer Details	1724854521274	1724854521560	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854521597
+REQUEST		Search for a Computer	1724854521474	1724854521759	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854521567	1724854521854	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854521100	1724854521957	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854521767	1724854522049	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854522092
+REQUEST		Delete a Computer	1724854521859	1724854522148	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854522155
+REQUEST		Search for a Computer	1724854521968	1724854522250	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854522062	1724854522345	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854521598	1724854522428	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854522263	1724854522543	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854522603
+REQUEST		Delete a Computer	1724854522356	1724854522642	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854522650
+REQUEST		Search for a Computer	1724854522435	1724854522714	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854522557	1724854522841	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854522092	1724854522971	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854522727	1724854523003	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854523099
+REQUEST		Delete a Computer	1724854522853	1724854523143	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854523146
+REQUEST		Search for a Computer	1724854522976	1724854523264	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854523007	1724854523281	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854522604	1724854523436	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854523287	1724854523559	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854523565
+REQUEST		View Computer Details	1724854523272	1724854523565	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854523596
+REQUEST		Search for a Computer	1724854523442	1724854523714	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854523580	1724854523874	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854523100	1724854523979	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854523719	1724854523992	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854524092
+REQUEST		Delete a Computer	1724854523891	1724854524181	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854524187
+REQUEST		Add a New Computer	1724854523999	1724854524272	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854523983	1724854524275	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854523597	1724854524433	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854524276	1724854524550	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854524557
+REQUEST		View Computer Details	1724854524292	1724854524584	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854524602
+REQUEST		Search for a Computer	1724854524446	1724854524719	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854524602	1724854524897	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854524092	1724854524948	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854524726	1724854525001	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854525098
+REQUEST		Delete a Computer	1724854524913	1724854525208	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854525223
+REQUEST		Search for a Computer	1724854524959	1724854525242	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854525008	1724854525281	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854524603	1724854525430	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854525254	1724854525537	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854525285	1724854525560	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854525564
+USER	Full User Journey on Firefox	START	1724854525595
+REQUEST		Search for a Computer	1724854525439	1724854525712	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854525549	1724854525840	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854525099	1724854525981	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854525718	1724854525990	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854526091
+REQUEST		Delete a Computer	1724854525858	1724854526151	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854526170
+REQUEST		Add a New Computer	1724854525997	1724854526270	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854525997	1724854526287	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854525595	1724854526451	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854526275	1724854526549	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854526568
+REQUEST		View Computer Details	1724854526290	1724854526581	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854526598
+REQUEST		Search for a Computer	1724854526459	1724854526743	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854526598	1724854526889	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854526092	1724854526944	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854526753	1724854527036	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854527092
+REQUEST		Delete a Computer	1724854526892	1724854527180	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854527186
+REQUEST		Search for a Computer	1724854526954	1724854527234	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854527046	1724854527327	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854526599	1724854527456	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854527247	1724854527527	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854527599
+REQUEST		Delete a Computer	1724854527339	1724854527621	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854527631
+REQUEST		Search for a Computer	1724854527461	1724854527745	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854527538	1724854527819	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854527093	1724854527969	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854527754	1724854528039	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854528091
+REQUEST		Delete a Computer	1724854527832	1724854528112	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854528124
+REQUEST		Search for a Computer	1724854527984	1724854528276	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854528045	1724854528328	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854527600	1724854528493	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854528292	1724854528583	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854528601
+REQUEST		Delete a Computer	1724854528337	1724854528623	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854528631
+REQUEST		Search for a Computer	1724854528507	1724854528798	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854528600	1724854528891	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854528091	1724854528943	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854529093
+REQUEST		View Computer Details	1724854528815	1724854529150	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854528908	1724854529203	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854529216
+REQUEST		Search for a Computer	1724854528954	1724854529254	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854528601	1724854529560	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854529261	1724854529560	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854529155	1724854529561	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854529597
+REQUEST		Add a New Computer	1724854529566	1724854530045	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854529566	1724854530045	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854529093	1724854530045	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854529566	1724854530045	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854530058
+USER	Full User Journey on Firefox	START	1724854530104
+REQUEST		View Computer Details	1724854530057	1724854530354	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854530057	1724854530354	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854530057	1724854530354	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854530366
+USER	Full User Journey on Firefox	START	1724854530594
+REQUEST		Load Computers List	1724854529597	1724854530633	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854530641	1724854530954	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854530365	1724854530954	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854530366	1724854530954	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854531101
+REQUEST		Load Computers List	1724854530105	1724854531246	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854530963	1724854531246	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854530963	1724854531246	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854530963	1724854531248	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854531256
+REQUEST		Load Computers List	1724854530595	1724854531526	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854531255	1724854531536	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854531255	1724854531540	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854531255	1724854531540	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854531551
+USER	Full User Journey on Firefox	START	1724854531597
+REQUEST		Search for a Computer	1724854531535	1724854531813	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854531550	1724854531832	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854531550	1724854531837	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854531845
+REQUEST		Load Computers List	1724854531101	1724854531983	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854532091
+REQUEST		View Computer Details	1724854531829	1724854532109	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854531843	1724854532134	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854532000	1724854532292	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854532123	1724854532403	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854532139	1724854532424	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854531598	1724854532427	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854532434
+REQUEST		View Computer Details	1724854532308	1724854532599	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854532604
+REQUEST		Delete a Computer	1724854532417	1724854532697	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854532433	1724854532703	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854532714
+REQUEST		Add a New Computer	1724854532604	1724854532894	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854532091	1724854532978	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854532712	1724854532984	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854533097
+REQUEST		Delete a Computer	1724854532912	1724854533203	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854533221
+REQUEST		Add a New Computer	1724854532989	1724854533262	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854532989	1724854533281	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854532604	1724854533456	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854533265	1724854533536	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854533544
+REQUEST		View Computer Details	1724854533296	1724854533588	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854533604
+REQUEST		Search for a Computer	1724854533465	1724854533743	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854533604	1724854533893	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854533098	1724854533928	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854533758	1724854534039	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854534097
+REQUEST		Delete a Computer	1724854533898	1724854534187	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854534191
+REQUEST		Search for a Computer	1724854533943	1724854534216	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854534051	1724854534335	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854533604	1724854534458	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854534221	1724854534502	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854534592
+REQUEST		Delete a Computer	1724854534345	1724854534625	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854534640
+REQUEST		Search for a Computer	1724854534469	1724854534751	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854534515	1724854534795	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854534098	1724854534957	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854534765	1724854535048	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854534812	1724854535088	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854535094
+USER	Full User Journey on Firefox	START	1724854535093
+REQUEST		Search for a Computer	1724854534968	1724854535252	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854535062	1724854535345	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854534592	1724854535437	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854535262	1724854535542	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854535600
+REQUEST		Delete a Computer	1724854535354	1724854535636	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854535648
+REQUEST		Search for a Computer	1724854535446	1724854535727	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854535554	1724854535836	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854535094	1724854535976	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854535740	1724854536020	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854536098
+REQUEST		Delete a Computer	1724854535849	1724854536132	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854536144
+REQUEST		Search for a Computer	1724854535987	1724854536276	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854536035	1724854536317	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854535601	1724854536475	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854536281	1724854536569	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854536594
+REQUEST		Delete a Computer	1724854536327	1724854536608	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854536626
+REQUEST		Search for a Computer	1724854536484	1724854536771	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854536578	1724854536865	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854536099	1724854536929	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854536780	1724854537067	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854537089
+REQUEST		Delete a Computer	1724854536873	1724854537165	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854537183
+REQUEST		Search for a Computer	1724854536934	1724854537205	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854537073	1724854537363	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854536594	1724854537425	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854537213	1724854537487	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854537598
+REQUEST		Delete a Computer	1724854537366	1724854537666	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854537675
+REQUEST		Search for a Computer	1724854537443	1724854537714	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854537490	1724854537761	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854537089	1724854537947	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854537720	1724854537992	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854537767	1724854538041	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854538045
+USER	Full User Journey on Firefox	START	1724854538089
+REQUEST		Search for a Computer	1724854537952	1724854538230	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854537997	1724854538269	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854537598	1724854538472	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854538244	1724854538523	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854538276	1724854538550	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854538559
+USER	Full User Journey on Firefox	START	1724854538617
+REQUEST		Search for a Computer	1724854538477	1724854538763	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854538539	1724854538819	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854538090	1724854538925	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854538770	1724854539060	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854539096
+REQUEST		Delete a Computer	1724854538831	1724854539108	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854539111
+REQUEST		Search for a Computer	1724854538940	1724854539214	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854539063	1724854539351	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854539220	1724854539494	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854538617	1724854539494	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854539591
+REQUEST		Delete a Computer	1724854539359	1724854539657	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854539671
+REQUEST		Add a New Computer	1724854539499	1724854539771	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854539499	1724854539783	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854539096	1724854539956	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854539779	1724854540052	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854540060
+REQUEST		View Computer Details	1724854539794	1724854540080	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854540091
+REQUEST		Search for a Computer	1724854539966	1724854540248	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854540091	1724854540378	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854539591	1724854540434	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854540258	1724854540539	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854540600
+REQUEST		Delete a Computer	1724854540384	1724854540670	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854540677
+REQUEST		Search for a Computer	1724854540446	1724854540725	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854540554	1724854540837	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854540091	1724854540944	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854540737	1724854541015	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854541094
+REQUEST		Delete a Computer	1724854540846	1724854541128	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854541139
+REQUEST		Search for a Computer	1724854540955	1724854541249	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854541032	1724854541311	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854540601	1724854541468	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854541264	1724854541564	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854541591
+REQUEST		Delete a Computer	1724854541327	1724854541605	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854541623
+REQUEST		Search for a Computer	1724854541482	1724854541764	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854541576	1724854541860	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854541094	1724854541966	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854541779	1724854542059	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854542102
+REQUEST		Delete a Computer	1724854541871	1724854542152	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854542164
+REQUEST		Search for a Computer	1724854541979	1724854542267	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854542071	1724854542350	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854541591	1724854542433	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854542271	1724854542561	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854542596
+REQUEST		Delete a Computer	1724854542363	1724854542643	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854542659
+REQUEST		Search for a Computer	1724854542440	1724854542722	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854542564	1724854542855	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854542102	1724854542934	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854542736	1724854543014	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854543090
+REQUEST		Delete a Computer	1724854542859	1724854543151	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854543169
+REQUEST		Search for a Computer	1724854542951	1724854543236	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854543028	1724854543306	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854542596	1724854543438	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854543247	1724854543518	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854543590
+REQUEST		Delete a Computer	1724854543324	1724854543604	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854543621
+REQUEST		Search for a Computer	1724854543449	1724854543722	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854543528	1724854543802	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854543091	1724854543951	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854543728	1724854544001	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854543805	1724854544079	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854544084
+USER	Full User Journey on Firefox	START	1724854544099
+REQUEST		Search for a Computer	1724854543960	1724854544240	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854544006	1724854544281	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854543591	1724854544420	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854544255	1724854544536	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854544286	1724854544556	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854544565
+USER	Full User Journey on Firefox	START	1724854544596
+REQUEST		Search for a Computer	1724854544424	1724854544697	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854544549	1724854544835	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854544100	1724854544942	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854544703	1724854544977	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854545092
+REQUEST		Delete a Computer	1724854544843	1724854545123	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854545139
+REQUEST		Search for a Computer	1724854544952	1724854545232	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854544983	1724854545255	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854544596	1724854545454	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854545246	1724854545525	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854545261	1724854545535	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854545543
+USER	Full User Journey on Firefox	START	1724854545589
+REQUEST		Search for a Computer	1724854545465	1724854545746	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854545542	1724854545820	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854545092	1724854545972	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854545758	1724854546039	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854546099
+REQUEST		Delete a Computer	1724854545835	1724854546114	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854546129
+REQUEST		Search for a Computer	1724854545975	1724854546263	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854546053	1724854546334	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854545589	1724854546464	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854546267	1724854546555	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854546591
+REQUEST		Delete a Computer	1724854546344	1724854546626	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854546639
+REQUEST		Search for a Computer	1724854546467	1724854546755	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854546560	1724854546847	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854546099	1724854546951	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854546759	1724854547047	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854547098
+REQUEST		Delete a Computer	1724854546852	1724854547139	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854547145
+REQUEST		Search for a Computer	1724854546960	1724854547241	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854547053	1724854547340	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854546591	1724854547443	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854547252	1724854547534	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854547592
+REQUEST		Delete a Computer	1724854547345	1724854547631	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854547638
+REQUEST		Search for a Computer	1724854547454	1724854547735	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854547546	1724854547829	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854547099	1724854547988	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854547745	1724854548027	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854548103
+REQUEST		Delete a Computer	1724854547841	1724854548124	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854548134
+REQUEST		Search for a Computer	1724854547994	1724854548273	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854548040	1724854548320	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854547592	1724854548487	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854548288	1724854548570	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854548597
+REQUEST		Delete a Computer	1724854548336	1724854548616	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854548629
+REQUEST		Search for a Computer	1724854548490	1724854548779	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854548581	1724854548863	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854548103	1724854548949	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854548783	1724854549074	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854549092
+REQUEST		Delete a Computer	1724854548875	1724854549157	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854549172
+REQUEST		Search for a Computer	1724854548953	1724854549234	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854549077	1724854549368	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854548597	1724854549446	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854549247	1724854549520	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854549601
+REQUEST		Delete a Computer	1724854549385	1724854549679	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854549695
+REQUEST		Search for a Computer	1724854549461	1724854549742	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854549523	1724854549798	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854549093	1724854549970	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854549758	1724854550039	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854549804	1724854550081	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854550085
+USER	Full User Journey on Firefox	START	1724854550099
+REQUEST		Search for a Computer	1724854549974	1724854550264	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854550052	1724854550333	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854549602	1724854550460	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854550269	1724854550562	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854550608
+REQUEST		Delete a Computer	1724854550347	1724854550625	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854550640
+REQUEST		Search for a Computer	1724854550468	1724854550749	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854550577	1724854550865	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854550100	1724854550970	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854550762	1724854551044	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854551100
+REQUEST		Delete a Computer	1724854550871	1724854551170	OK	 
+REQUEST		Search for a Computer	1724854550978	1724854551327	OK	 
+REQUEST		Add a New Computer	1724854551055	1724854551340	OK	 
+REQUEST		Load Computers List	1724854550609	1724854551466	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854551201	1724854551516	OK	 
+USER	Full User Journey on Firefox	START	1724854551596
+REQUEST		Add a New Computer Redirect 1	1724854551341	1724854551646	OK	 
+REQUEST		bootstrap.min.css	1724854551576	1724854551864	OK	 
+REQUEST		bootstrap.min.css	1724854551576	1724854551875	OK	 
+REQUEST		bootstrap.min.css	1724854551576	1724854551875	OK	 
+REQUEST		bootstrap.min.css	1724854551652	1724854551943	OK	 
+REQUEST		Load Computers List	1724854551101	1724854552003	OK	 
+USER	Full User Journey on Firefox	START	1724854552094
+REQUEST		bootstrap.min.css	1724854552009	1724854552313	OK	 
+REQUEST		main.css	1724854551577	1724854552401	OK	 
+REQUEST		main.css	1724854551577	1724854552401	OK	 
+USER	Full User Journey on Firefox	END	1724854552420
+REQUEST		main.css	1724854551577	1724854552443	OK	 
+REQUEST		Load Computers List	1724854551597	1724854552475	OK	 
+REQUEST		main.css	1724854551654	1724854552487	OK	 
+USER	Full User Journey on Firefox	START	1724854552589
+REQUEST		Search for a Computer	1724854552419	1724854552695	OK	 
+REQUEST		View Computer Details	1724854552449	1724854552730	OK	 
+REQUEST		bootstrap.min.css	1724854552480	1724854552777	OK	 
+REQUEST		Delete a Computer	1724854552496	1724854552779	OK	 
+REQUEST		main.css	1724854552010	1724854552872	OK	 
+REQUEST		main.css	1724854552702	1724854552979	OK	 
+REQUEST		bootstrap.min.css	1724854552700	1724854552982	OK	 
+REQUEST		Load Computers List	1724854552095	1724854552998	OK	 
+REQUEST		main.css	1724854552736	1724854553017	OK	 
+REQUEST		bootstrap.min.css	1724854552735	1724854553027	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854552780	1724854553058	OK	 
+USER	Full User Journey on Firefox	START	1724854553101
+REQUEST		Search for a Computer	1724854552884	1724854553173	OK	 
+REQUEST		View Computer Details	1724854552993	1724854553271	OK	 
+REQUEST		bootstrap.min.css	1724854553003	1724854553305	OK	 
+REQUEST		main.css	1724854552481	1724854553320	OK	 
+REQUEST		Add a New Computer	1724854553040	1724854553321	OK	 
+REQUEST		main.css	1724854553063	1724854553347	OK	 
+REQUEST		bootstrap.min.css	1724854553062	1724854553383	OK	 
+USER	Full User Journey on Firefox	END	1724854553397
+REQUEST		Load Computers List	1724854552589	1724854553455	OK	 
+REQUEST		bootstrap.min.css	1724854553178	1724854553463	OK	 
+REQUEST		main.css	1724854553179	1724854553470	OK	 
+REQUEST		bootstrap.min.css	1724854553275	1724854553553	OK	 
+REQUEST		main.css	1724854553276	1724854553555	OK	 
+USER	Full User Journey on Firefox	START	1724854553596
+REQUEST		Add a New Computer Redirect 1	1724854553322	1724854553606	OK	 
+REQUEST		Search for a Computer	1724854553334	1724854553619	OK	 
+REQUEST		bootstrap.min.css	1724854553458	1724854553751	OK	 
+REQUEST		View Computer Details	1724854553473	1724854553755	OK	 
+REQUEST		Add a New Computer	1724854553565	1724854553838	OK	 
+REQUEST		main.css	1724854553005	1724854553844	OK	 
+REQUEST		bootstrap.min.css	1724854553610	1724854553894	OK	 
+REQUEST		main.css	1724854553610	1724854553896	OK	 
+REQUEST		bootstrap.min.css	1724854553623	1724854553905	OK	 
+REQUEST		main.css	1724854553624	1724854553907	OK	 
+REQUEST		Load Computers List	1724854553102	1724854553978	OK	 
+REQUEST		main.css	1724854553761	1724854554041	OK	 
+REQUEST		bootstrap.min.css	1724854553760	1724854554059	OK	 
+USER	Full User Journey on Firefox	START	1724854554089
+REQUEST		Add a New Computer Redirect 1	1724854553839	1724854554116	OK	 
+REQUEST		Search for a Computer	1724854553859	1724854554156	OK	 
+REQUEST		Delete a Computer	1724854553904	1724854554183	OK	 
+REQUEST		View Computer Details	1724854553920	1724854554195	OK	 
+REQUEST		bootstrap.min.css	1724854553982	1724854554277	OK	 
+REQUEST		main.css	1724854553460	1724854554313	OK	 
+REQUEST		Add a New Computer	1724854554073	1724854554355	OK	 
+REQUEST		bootstrap.min.css	1724854554121	1724854554398	OK	 
+REQUEST		main.css	1724854554122	1724854554400	OK	 
+REQUEST		bootstrap.min.css	1724854554160	1724854554446	OK	 
+REQUEST		main.css	1724854554162	1724854554452	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854554184	1724854554465	OK	 
+REQUEST		main.css	1724854554201	1724854554474	OK	 
+REQUEST		bootstrap.min.css	1724854554200	1724854554493	OK	 
+REQUEST		Load Computers List	1724854553596	1724854554495	OK	 
+USER	Full User Journey on Firefox	START	1724854554599
+REQUEST		Search for a Computer	1724854554322	1724854554603	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854554356	1724854554647	OK	 
+REQUEST		Delete a Computer	1724854554415	1724854554689	OK	 
+REQUEST		View Computer Details	1724854554460	1724854554737	OK	 
+REQUEST		main.css	1724854554471	1724854554752	OK	 
+REQUEST		bootstrap.min.css	1724854554470	1724854554769	OK	 
+REQUEST		Add a New Computer	1724854554507	1724854554780	OK	 
+USER	Full User Journey on Firefox	END	1724854554784
+REQUEST		bootstrap.min.css	1724854554498	1724854554814	OK	 
+REQUEST		main.css	1724854553983	1724854554822	OK	 
+REQUEST		main.css	1724854554608	1724854554906	OK	 
+REQUEST		bootstrap.min.css	1724854554607	1724854554908	OK	 
+REQUEST		bootstrap.min.css	1724854554651	1724854554938	OK	 
+REQUEST		Load Computers List	1724854554089	1724854554939	OK	 
+REQUEST		main.css	1724854554652	1724854554943	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854554690	1724854554968	OK	 
+REQUEST		main.css	1724854554742	1724854555016	OK	 
+REQUEST		bootstrap.min.css	1724854554741	1724854555045	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854554781	1724854555087	OK	 
+USER	Full User Journey on Firefox	START	1724854555089
+REQUEST		Search for a Computer	1724854554829	1724854555111	OK	 
+REQUEST		View Computer Details	1724854554921	1724854555203	OK	 
+REQUEST		Delete a Computer	1724854554951	1724854555230	OK	 
+REQUEST		bootstrap.min.css	1724854554943	1724854555231	OK	 
+REQUEST		main.css	1724854554973	1724854555246	OK	 
+REQUEST		bootstrap.min.css	1724854554972	1724854555262	OK	 
+USER	Full User Journey on Firefox	END	1724854555277
+REQUEST		Add a New Computer	1724854555060	1724854555332	OK	 
+REQUEST		bootstrap.min.css	1724854555091	1724854555370	OK	 
+REQUEST		main.css	1724854555092	1724854555373	OK	 
+REQUEST		main.css	1724854554499	1724854555379	OK	 
+REQUEST		bootstrap.min.css	1724854555115	1724854555397	OK	 
+REQUEST		main.css	1724854555116	1724854555398	OK	 
+REQUEST		Load Computers List	1724854554599	1724854555448	OK	 
+REQUEST		main.css	1724854555207	1724854555487	OK	 
+REQUEST		bootstrap.min.css	1724854555206	1724854555493	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854555231	1724854555522	OK	 
+USER	Full User Journey on Firefox	START	1724854555599
+REQUEST		Add a New Computer Redirect 1	1724854555333	1724854555628	OK	 
+REQUEST		Delete a Computer	1724854555384	1724854555660	OK	 
+REQUEST		Search for a Computer	1724854555383	1724854555674	OK	 
+REQUEST		View Computer Details	1724854555414	1724854555692	OK	 
+REQUEST		bootstrap.min.css	1724854555452	1724854555740	OK	 
+REQUEST		main.css	1724854554944	1724854555797	OK	 
+REQUEST		Add a New Computer	1724854555505	1724854555799	OK	 
+REQUEST		bootstrap.min.css	1724854555527	1724854555817	OK	 
+REQUEST		main.css	1724854555528	1724854555823	OK	 
+USER	Full User Journey on Firefox	END	1724854555832
+REQUEST		bootstrap.min.css	1724854555632	1724854555925	OK	 
+REQUEST		main.css	1724854555633	1724854555927	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854555661	1724854555946	OK	 
+REQUEST		Load Computers List	1724854555090	1724854555962	OK	 
+REQUEST		main.css	1724854555698	1724854555972	OK	 
+REQUEST		bootstrap.min.css	1724854555678	1724854555973	OK	 
+REQUEST		main.css	1724854555680	1724854555975	OK	 
+REQUEST		bootstrap.min.css	1724854555697	1724854555997	OK	 
+REQUEST		Search for a Computer	1724854555800	1724854556076	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854555800	1724854556083	OK	 
+USER	Full User Journey on Firefox	START	1724854556096
+REQUEST		Delete a Computer	1724854555945	1724854556220	OK	 
+REQUEST		bootstrap.min.css	1724854555949	1724854556230	OK	 
+REQUEST		main.css	1724854555950	1724854556231	OK	 
+USER	Full User Journey on Firefox	END	1724854556237
+REQUEST		bootstrap.min.css	1724854555966	1724854556253	OK	 
+REQUEST		Add a New Computer	1724854556001	1724854556274	OK	 
+REQUEST		View Computer Details	1724854555994	1724854556282	OK	 
+REQUEST		main.css	1724854555453	1724854556295	OK	 
+REQUEST		main.css	1724854556081	1724854556354	OK	 
+REQUEST		bootstrap.min.css	1724854556080	1724854556361	OK	 
+REQUEST		main.css	1724854556087	1724854556373	OK	 
+REQUEST		bootstrap.min.css	1724854556086	1724854556375	OK	 
+REQUEST		Load Computers List	1724854555599	1724854556470	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854556221	1724854556516	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854556275	1724854556557	OK	 
+REQUEST		main.css	1724854556286	1724854556610	OK	 
+REQUEST		Search for a Computer	1724854556298	1724854556610	OK	 
+USER	Full User Journey on Firefox	START	1724854556610
+REQUEST		bootstrap.min.css	1724854556285	1724854556612	OK	 
+REQUEST		View Computer Details	1724854556376	1724854556697	OK	 
+REQUEST		Delete a Computer	1724854556392	1724854556705	OK	 
+REQUEST		bootstrap.min.css	1724854556474	1724854556763	OK	 
+REQUEST		main.css	1724854555967	1724854556796	OK	 
+REQUEST		bootstrap.min.css	1724854556520	1724854556809	OK	 
+REQUEST		main.css	1724854556522	1724854556816	OK	 
+USER	Full User Journey on Firefox	END	1724854556824
+REQUEST		bootstrap.min.css	1724854556561	1724854556844	OK	 
+REQUEST		main.css	1724854556562	1724854556846	OK	 
+REQUEST		main.css	1724854556614	1724854556886	OK	 
+REQUEST		bootstrap.min.css	1724854556613	1724854556902	OK	 
+REQUEST		Add a New Computer	1724854556625	1724854556919	OK	 
+REQUEST		main.css	1724854556701	1724854556994	OK	 
+REQUEST		bootstrap.min.css	1724854556700	1724854556997	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854556706	1724854556997	OK	 
+REQUEST		Load Computers List	1724854556097	1724854557011	OK	 
+REQUEST		Search for a Computer	1724854556808	1724854557085	OK	 
+USER	Full User Journey on Firefox	START	1724854557100
+REQUEST		Delete a Computer	1724854556853	1724854557129	OK	 
+REQUEST		View Computer Details	1724854556916	1724854557193	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854556920	1724854557212	OK	 
+REQUEST		main.css	1724854557014	1724854557294	OK	 
+REQUEST		bootstrap.min.css	1724854557014	1724854557295	OK	 
+REQUEST		Add a New Computer	1724854557024	1724854557295	OK	 
+REQUEST		bootstrap.min.css	1724854557013	1724854557301	OK	 
+USER	Full User Journey on Firefox	END	1724854557315
+REQUEST		main.css	1724854556475	1724854557365	OK	 
+REQUEST		bootstrap.min.css	1724854557088	1724854557366	OK	 
+REQUEST		main.css	1724854557089	1724854557368	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854557130	1724854557412	OK	 
+REQUEST		main.css	1724854557197	1724854557470	OK	 
+REQUEST		bootstrap.min.css	1724854557196	1724854557487	OK	 
+REQUEST		main.css	1724854557217	1724854557506	OK	 
+REQUEST		Load Computers List	1724854556610	1724854557507	OK	 
+REQUEST		bootstrap.min.css	1724854557216	1724854557512	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854557296	1724854557573	OK	 
+USER	Full User Journey on Firefox	START	1724854557591
+REQUEST		View Computer Details	1724854557376	1724854557653	OK	 
+REQUEST		Search for a Computer	1724854557376	1724854557653	OK	 
+REQUEST		bootstrap.min.css	1724854557415	1724854557697	OK	 
+REQUEST		main.css	1724854557416	1724854557699	OK	 
+USER	Full User Journey on Firefox	END	1724854557714
+REQUEST		Add a New Computer	1724854557499	1724854557772	OK	 
+REQUEST		bootstrap.min.css	1724854557510	1724854557800	OK	 
+REQUEST		Delete a Computer	1724854557529	1724854557821	OK	 
+REQUEST		main.css	1724854557015	1724854557842	OK	 
+REQUEST		main.css	1724854557576	1724854557859	OK	 
+REQUEST		bootstrap.min.css	1724854557576	1724854557861	OK	 
+REQUEST		main.css	1724854557656	1724854557929	OK	 
+REQUEST		Load Computers List	1724854557101	1724854557929	OK	 
+REQUEST		main.css	1724854557656	1724854557946	OK	 
+REQUEST		bootstrap.min.css	1724854557655	1724854557946	OK	 
+REQUEST		bootstrap.min.css	1724854557656	1724854557961	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854557773	1724854558051	OK	 
+USER	Full User Journey on Firefox	START	1724854558099
+REQUEST		Delete a Computer Redirect 1	1724854557822	1724854558115	OK	 
+REQUEST		Search for a Computer	1724854557851	1724854558130	OK	 
+REQUEST		Delete a Computer	1724854557866	1724854558148	OK	 
+REQUEST		bootstrap.min.css	1724854557932	1724854558214	OK	 
+REQUEST		Add a New Computer	1724854557960	1724854558233	OK	 
+REQUEST		View Computer Details	1724854557976	1724854558256	OK	 
+REQUEST		main.css	1724854558055	1724854558331	OK	 
+REQUEST		bootstrap.min.css	1724854558054	1724854558349	OK	 
+REQUEST		main.css	1724854557511	1724854558365	OK	 
+REQUEST		main.css	1724854558120	1724854558408	OK	 
+REQUEST		bootstrap.min.css	1724854558132	1724854558411	OK	 
+REQUEST		main.css	1724854558133	1724854558413	OK	 
+REQUEST		bootstrap.min.css	1724854558119	1724854558427	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854558149	1724854558427	OK	 
+USER	Full User Journey on Firefox	END	1724854558442
+REQUEST		Load Computers List	1724854557591	1724854558470	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854558234	1724854558512	OK	 
+REQUEST		main.css	1724854558260	1724854558534	OK	 
+REQUEST		bootstrap.min.css	1724854558259	1724854558563	OK	 
+USER	Full User Journey on Firefox	START	1724854558596
+REQUEST		Delete a Computer	1724854558364	1724854558640	OK	 
+REQUEST		Search for a Computer	1724854558380	1724854558661	OK	 
+REQUEST		main.css	1724854558431	1724854558704	OK	 
+REQUEST		View Computer Details	1724854558425	1724854558705	OK	 
+REQUEST		bootstrap.min.css	1724854558430	1724854558722	OK	 
+USER	Full User Journey on Firefox	END	1724854558737
+REQUEST		bootstrap.min.css	1724854558473	1724854558769	OK	 
+REQUEST		main.css	1724854557933	1724854558793	OK	 
+REQUEST		main.css	1724854558517	1724854558799	OK	 
+REQUEST		bootstrap.min.css	1724854558516	1724854558801	OK	 
+REQUEST		Add a New Computer	1724854558581	1724854558855	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854558641	1724854558917	OK	 
+REQUEST		bootstrap.min.css	1724854558664	1724854558949	OK	 
+REQUEST		main.css	1724854558665	1724854558951	OK	 
+REQUEST		Load Computers List	1724854558099	1724854558964	OK	 
+REQUEST		main.css	1724854558708	1724854558981	OK	 
+REQUEST		bootstrap.min.css	1724854558707	1724854559003	OK	 
+REQUEST		Search for a Computer	1724854558798	1724854559073	OK	 
+REQUEST		Delete a Computer	1724854558813	1724854559090	OK	 
+USER	Full User Journey on Firefox	START	1724854559092
+REQUEST		Add a New Computer Redirect 1	1724854558856	1724854559148	OK	 
+REQUEST		main.css	1724854558921	1724854559192	OK	 
+REQUEST		bootstrap.min.css	1724854558920	1724854559200	OK	 
+USER	Full User Journey on Firefox	END	1724854559219
+REQUEST		View Computer Details	1724854558967	1724854559241	OK	 
+REQUEST		bootstrap.min.css	1724854558966	1724854559266	OK	 
+REQUEST		Add a New Computer	1724854559015	1724854559291	OK	 
+REQUEST		main.css	1724854558474	1724854559306	OK	 
+REQUEST		main.css	1724854559077	1724854559356	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854559091	1724854559367	OK	 
+REQUEST		bootstrap.min.css	1724854559075	1724854559368	OK	 
+REQUEST		bootstrap.min.css	1724854559151	1724854559436	OK	 
+REQUEST		main.css	1724854559152	1724854559441	OK	 
+REQUEST		Load Computers List	1724854558597	1724854559460	OK	 
+REQUEST		main.css	1724854559244	1724854559516	OK	 
+REQUEST		bootstrap.min.css	1724854559243	1724854559529	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854559291	1724854559575	OK	 
+USER	Full User Journey on Firefox	START	1724854559590
+REQUEST		Search for a Computer	1724854559310	1724854559606	OK	 
+REQUEST		View Computer Details	1724854559372	1724854559648	OK	 
+REQUEST		main.css	1724854559370	1724854559648	OK	 
+REQUEST		bootstrap.min.css	1724854559370	1724854559654	OK	 
+USER	Full User Journey on Firefox	END	1724854559668
+REQUEST		Delete a Computer	1724854559450	1724854559725	OK	 
+REQUEST		bootstrap.min.css	1724854559463	1724854559761	OK	 
+REQUEST		main.css	1724854558967	1724854559788	OK	 
+REQUEST		Add a New Computer	1724854559542	1724854559815	OK	 
+REQUEST		bootstrap.min.css	1724854559579	1724854559854	OK	 
+REQUEST		main.css	1724854559579	1724854559856	OK	 
+REQUEST		bootstrap.min.css	1724854559608	1724854559886	OK	 
+REQUEST		main.css	1724854559609	1724854559899	OK	 
+REQUEST		main.css	1724854559652	1724854559925	OK	 
+REQUEST		bootstrap.min.css	1724854559651	1724854559936	OK	 
+REQUEST		Load Computers List	1724854559092	1724854559958	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854559726	1724854560017	OK	 
+REQUEST		Search for a Computer	1724854559790	1724854560087	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854559816	1724854560100	OK	 
+USER	Full User Journey on Firefox	START	1724854560100
+REQUEST		Delete a Computer	1724854559869	1724854560142	OK	 
+REQUEST		View Computer Details	1724854559915	1724854560198	OK	 
+REQUEST		Add a New Computer	1724854559945	1724854560220	OK	 
+REQUEST		bootstrap.min.css	1724854559960	1724854560260	OK	 
+REQUEST		main.css	1724854559464	1724854560293	OK	 
+REQUEST		bootstrap.min.css	1724854560019	1724854560305	OK	 
+REQUEST		main.css	1724854560020	1724854560308	OK	 
+USER	Full User Journey on Firefox	END	1724854560320
+REQUEST		bootstrap.min.css	1724854560089	1724854560369	OK	 
+REQUEST		main.css	1724854560090	1724854560373	OK	 
+REQUEST		bootstrap.min.css	1724854560103	1724854560382	OK	 
+REQUEST		main.css	1724854560104	1724854560383	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854560142	1724854560419	OK	 
+REQUEST		Load Computers List	1724854559590	1724854560455	OK	 
+REQUEST		main.css	1724854560202	1724854560473	OK	 
+REQUEST		bootstrap.min.css	1724854560201	1724854560503	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854560220	1724854560503	OK	 
+REQUEST		Search for a Computer	1724854560304	1724854560586	OK	 
+USER	Full User Journey on Firefox	START	1724854560600
+REQUEST		View Computer Details	1724854560382	1724854560657	OK	 
+REQUEST		Delete a Computer	1724854560398	1724854560671	OK	 
+REQUEST		main.css	1724854560422	1724854560707	OK	 
+REQUEST		bootstrap.min.css	1724854560421	1724854560709	OK	 
+USER	Full User Journey on Firefox	END	1724854560722
+REQUEST		bootstrap.min.css	1724854560458	1724854560753	OK	 
+REQUEST		Add a New Computer	1724854560506	1724854560778	OK	 
+REQUEST		bootstrap.min.css	1724854560505	1724854560784	OK	 
+REQUEST		main.css	1724854560506	1724854560787	OK	 
+REQUEST		main.css	1724854559961	1724854560828	OK	 
+REQUEST		bootstrap.min.css	1724854560588	1724854560872	OK	 
+REQUEST		main.css	1724854560588	1724854560875	OK	 
+REQUEST		main.css	1724854560660	1724854560933	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854560671	1724854560954	OK	 
+REQUEST		bootstrap.min.css	1724854560659	1724854560955	OK	 
+REQUEST		Load Computers List	1724854560100	1724854560956	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854560779	1724854561071	OK	 
+REQUEST		Delete a Computer	1724854560798	1724854561075	OK	 
+USER	Full User Journey on Firefox	START	1724854561092
+REQUEST		Search for a Computer	1724854560844	1724854561128	OK	 
+REQUEST		View Computer Details	1724854560891	1724854561167	OK	 
+REQUEST		bootstrap.min.css	1724854560956	1724854561235	OK	 
+REQUEST		main.css	1724854560957	1724854561236	OK	 
+REQUEST		Add a New Computer	1724854560968	1724854561243	OK	 
+REQUEST		bootstrap.min.css	1724854560958	1724854561246	OK	 
+USER	Full User Journey on Firefox	END	1724854561251
+REQUEST		main.css	1724854560462	1724854561314	OK	 
+REQUEST		bootstrap.min.css	1724854561074	1724854561358	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854561075	1724854561358	OK	 
+REQUEST		main.css	1724854561075	1724854561368	OK	 
+REQUEST		main.css	1724854561132	1724854561415	OK	 
+REQUEST		bootstrap.min.css	1724854561131	1724854561422	OK	 
+REQUEST		main.css	1724854561170	1724854561442	OK	 
+REQUEST		bootstrap.min.css	1724854561169	1724854561470	OK	 
+REQUEST		Load Computers List	1724854560601	1724854561483	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854561244	1724854561529	OK	 
+USER	Full User Journey on Firefox	START	1724854561594
+REQUEST		Search for a Computer	1724854561327	1724854561613	OK	 
+REQUEST		bootstrap.min.css	1724854561361	1724854561641	OK	 
+REQUEST		main.css	1724854561362	1724854561643	OK	 
+REQUEST		Delete a Computer	1724854561374	1724854561646	OK	 
+USER	Full User Journey on Firefox	END	1724854561656
+REQUEST		View Computer Details	1724854561437	1724854561725	OK	 
+REQUEST		Add a New Computer	1724854561484	1724854561756	OK	 
+REQUEST		bootstrap.min.css	1724854561485	1724854561782	OK	 
+REQUEST		bootstrap.min.css	1724854561532	1724854561810	OK	 
+REQUEST		main.css	1724854561533	1724854561814	OK	 
+REQUEST		main.css	1724854560958	1724854561814	OK	 
+REQUEST		main.css	1724854561616	1724854561902	OK	 
+REQUEST		bootstrap.min.css	1724854561615	1724854561904	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854561647	1724854561937	OK	 
+REQUEST		Load Computers List	1724854561092	1724854561948	OK	 
+REQUEST		main.css	1724854561728	1724854562016	OK	 
+REQUEST		bootstrap.min.css	1724854561727	1724854562018	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854561757	1724854562037	OK	 
+REQUEST		Delete a Computer	1724854561823	1724854562095	OK	 
+USER	Full User Journey on Firefox	START	1724854562103
+REQUEST		Search for a Computer	1724854561823	1724854562107	OK	 
+REQUEST		View Computer Details	1724854561917	1724854562201	OK	 
+REQUEST		bootstrap.min.css	1724854561940	1724854562230	OK	 
+REQUEST		main.css	1724854561941	1724854562239	OK	 
+REQUEST		bootstrap.min.css	1724854561950	1724854562239	OK	 
+USER	Full User Journey on Firefox	END	1724854562245
+REQUEST		Add a New Computer	1724854562026	1724854562308	OK	 
+REQUEST		bootstrap.min.css	1724854562040	1724854562321	OK	 
+REQUEST		main.css	1724854562040	1724854562323	OK	 
+REQUEST		main.css	1724854561485	1724854562368	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854562096	1724854562379	OK	 
+REQUEST		main.css	1724854562110	1724854562390	OK	 
+REQUEST		bootstrap.min.css	1724854562109	1724854562400	OK	 
+REQUEST		Load Computers List	1724854561594	1724854562431	OK	 
+REQUEST		bootstrap.min.css	1724854562203	1724854562487	OK	 
+REQUEST		main.css	1724854562204	1724854562488	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854562309	1724854562594	OK	 
+USER	Full User Journey on Firefox	START	1724854562598
+REQUEST		Delete a Computer	1724854562338	1724854562609	OK	 
+REQUEST		bootstrap.min.css	1724854562381	1724854562661	OK	 
+REQUEST		main.css	1724854562382	1724854562673	OK	 
+REQUEST		Search for a Computer	1724854562383	1724854562673	OK	 
+USER	Full User Journey on Firefox	END	1724854562690
+REQUEST		View Computer Details	1724854562414	1724854562698	OK	 
+REQUEST		bootstrap.min.css	1724854562434	1724854562715	OK	 
+REQUEST		Add a New Computer	1724854562505	1724854562786	OK	 
+REQUEST		main.css	1724854561951	1724854562834	OK	 
+REQUEST		main.css	1724854562597	1724854562903	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854562609	1724854562903	OK	 
+REQUEST		bootstrap.min.css	1724854562596	1724854562905	OK	 
+REQUEST		main.css	1724854562676	1724854562965	OK	 
+REQUEST		Load Computers List	1724854562104	1724854562965	OK	 
+REQUEST		bootstrap.min.css	1724854562675	1724854562972	OK	 
+REQUEST		main.css	1724854562701	1724854562981	OK	 
+REQUEST		bootstrap.min.css	1724854562700	1724854562986	OK	 
+USER	Full User Journey on Firefox	START	1724854563090
+REQUEST		Add a New Computer Redirect 1	1724854562787	1724854563092	OK	 
+REQUEST		Search for a Computer	1724854562845	1724854563138	OK	 
+REQUEST		bootstrap.min.css	1724854562906	1724854563194	OK	 
+REQUEST		main.css	1724854562907	1724854563198	OK	 
+REQUEST		Delete a Computer	1724854562922	1724854563209	OK	 
+USER	Full User Journey on Firefox	END	1724854563213
+REQUEST		bootstrap.min.css	1724854562967	1724854563260	OK	 
+REQUEST		View Computer Details	1724854562983	1724854563273	OK	 
+REQUEST		Add a New Computer	1724854562999	1724854563281	OK	 
+REQUEST		main.css	1724854562435	1724854563296	OK	 
+REQUEST		main.css	1724854563096	1724854563378	OK	 
+REQUEST		bootstrap.min.css	1724854563095	1724854563384	OK	 
+REQUEST		main.css	1724854563141	1724854563423	OK	 
+REQUEST		bootstrap.min.css	1724854563140	1724854563452	OK	 
+REQUEST		Load Computers List	1724854562598	1724854563485	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854563210	1724854563496	OK	 
+REQUEST		main.css	1724854563276	1724854563565	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854563281	1724854563565	OK	 
+REQUEST		Search for a Computer	1724854563305	1724854563623	OK	 
+REQUEST		bootstrap.min.css	1724854563275	1724854563636	OK	 
+USER	Full User Journey on Firefox	START	1724854563599
+REQUEST		Delete a Computer	1724854563398	1724854563685	OK	 
+REQUEST		View Computer Details	1724854563460	1724854563750	OK	 
+REQUEST		main.css	1724854563500	1724854563783	OK	 
+REQUEST		bootstrap.min.css	1724854563487	1724854563784	OK	 
+REQUEST		bootstrap.min.css	1724854563499	1724854563786	OK	 
+USER	Full User Journey on Firefox	END	1724854563801
+REQUEST		main.css	1724854562968	1724854563879	OK	 
+REQUEST		bootstrap.min.css	1724854563569	1724854563880	OK	 
+REQUEST		main.css	1724854563570	1724854563928	OK	 
+REQUEST		main.css	1724854563643	1724854563928	OK	 
+REQUEST		bootstrap.min.css	1724854563642	1724854563942	OK	 
+REQUEST		Add a New Computer	1724854563644	1724854563962	OK	 
+REQUEST		Load Computers List	1724854563090	1724854563993	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854563686	1724854563994	OK	 
+REQUEST		main.css	1724854563753	1724854564056	OK	 
+REQUEST		bootstrap.min.css	1724854563752	1724854564067	OK	 
+USER	Full User Journey on Firefox	START	1724854564095
+REQUEST		Search for a Computer	1724854563894	1724854564201	OK	 
+REQUEST		Delete a Computer	1724854563941	1724854564243	OK	 
+REQUEST		View Computer Details	1724854563956	1724854564244	OK	 
+REQUEST		bootstrap.min.css	1724854563996	1724854564282	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854563962	1724854564282	OK	 
+REQUEST		main.css	1724854563997	1724854564309	OK	 
+REQUEST		bootstrap.min.css	1724854563996	1724854564311	OK	 
+USER	Full User Journey on Firefox	END	1724854564328
+REQUEST		main.css	1724854563488	1724854564353	OK	 
+REQUEST		Add a New Computer	1724854564080	1724854564404	OK	 
+REQUEST		main.css	1724854564204	1724854564510	OK	 
+REQUEST		bootstrap.min.css	1724854564203	1724854564512	OK	 
+REQUEST		main.css	1724854564248	1724854564544	OK	 
+REQUEST		Load Computers List	1724854563637	1724854564544	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854564244	1724854564544	OK	 
+REQUEST		bootstrap.min.css	1724854564247	1724854564546	OK	 
+REQUEST		main.css	1724854564285	1724854564605	OK	 
+REQUEST		bootstrap.min.css	1724854564285	1724854564607	OK	 
+USER	Full User Journey on Firefox	START	1724854564608
+REQUEST		Search for a Computer	1724854564358	1724854564665	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854564405	1724854564720	OK	 
+REQUEST		main.css	1724854564547	1724854564835	OK	 
+REQUEST		View Computer Details	1724854564525	1724854564835	OK	 
+REQUEST		Add a New Computer	1724854564556	1724854564835	OK	 
+REQUEST		bootstrap.min.css	1724854564547	1724854564836	OK	 
+REQUEST		bootstrap.min.css	1724854564547	1724854564837	OK	 
+USER	Full User Journey on Firefox	END	1724854564854
+REQUEST		main.css	1724854563996	1724854564892	OK	 
+REQUEST		Delete a Computer	1724854564620	1724854564909	OK	 
+REQUEST		bootstrap.min.css	1724854564667	1724854564946	OK	 
+REQUEST		main.css	1724854564668	1724854564949	OK	 
+REQUEST		Load Computers List	1724854564095	1724854564997	OK	 
+REQUEST		bootstrap.min.css	1724854564722	1724854565016	OK	 
+REQUEST		main.css	1724854564723	1724854565018	OK	 
+USER	Full User Journey on Firefox	START	1724854565098
+REQUEST		Add a New Computer Redirect 1	1724854564836	1724854565117	OK	 
+REQUEST		main.css	1724854564838	1724854565118	OK	 
+REQUEST		bootstrap.min.css	1724854564838	1724854565129	OK	 
+REQUEST		Search for a Computer	1724854564900	1724854565181	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854564909	1724854565199	OK	 
+REQUEST		View Computer Details	1724854564960	1724854565235	OK	 
+REQUEST		bootstrap.min.css	1724854564999	1724854565282	OK	 
+REQUEST		Delete a Computer	1724854565022	1724854565303	OK	 
+REQUEST		bootstrap.min.css	1724854565120	1724854565398	OK	 
+REQUEST		main.css	1724854565120	1724854565402	OK	 
+REQUEST		main.css	1724854564547	1724854565420	OK	 
+REQUEST		Add a New Computer	1724854565145	1724854565426	OK	 
+REQUEST		Load Computers List	1724854564608	1724854565442	OK	 
+REQUEST		main.css	1724854565185	1724854565465	OK	 
+REQUEST		bootstrap.min.css	1724854565184	1724854565484	OK	 
+REQUEST		main.css	1724854565203	1724854565491	OK	 
+REQUEST		main.css	1724854565239	1724854565511	OK	 
+REQUEST		bootstrap.min.css	1724854565202	1724854565511	OK	 
+USER	Full User Journey on Firefox	END	1724854565515
+REQUEST		bootstrap.min.css	1724854565238	1724854565532	OK	 
+USER	Full User Journey on Firefox	START	1724854565591
+REQUEST		Delete a Computer Redirect 1	1724854565304	1724854565602	OK	 
+REQUEST		Delete a Computer	1724854565405	1724854565676	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854565427	1724854565709	OK	 
+REQUEST		Search for a Computer	1724854565436	1724854565718	OK	 
+REQUEST		bootstrap.min.css	1724854565444	1724854565724	OK	 
+REQUEST		View Computer Details	1724854565499	1724854565778	OK	 
+REQUEST		Add a New Computer	1724854565545	1724854565821	OK	 
+REQUEST		main.css	1724854565000	1724854565863	OK	 
+REQUEST		bootstrap.min.css	1724854565604	1724854565894	OK	 
+REQUEST		main.css	1724854565605	1724854565896	OK	 
+USER	Full User Journey on Firefox	END	1724854565913
+REQUEST		Load Computers List	1724854565099	1724854565960	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854565677	1724854565960	OK	 
+REQUEST		main.css	1724854565721	1724854566004	OK	 
+REQUEST		main.css	1724854565713	1724854566004	OK	 
+REQUEST		bootstrap.min.css	1724854565712	1724854566005	OK	 
+REQUEST		bootstrap.min.css	1724854565720	1724854566023	OK	 
+REQUEST		main.css	1724854565781	1724854566060	OK	 
+REQUEST		bootstrap.min.css	1724854565780	1724854566069	OK	 
+USER	Full User Journey on Firefox	START	1724854566100
+REQUEST		Add a New Computer Redirect 1	1724854565822	1724854566106	OK	 
+REQUEST		Search for a Computer	1724854565867	1724854566139	OK	 
+REQUEST		bootstrap.min.css	1724854565962	1724854566244	OK	 
+REQUEST		main.css	1724854565963	1724854566248	OK	 
+REQUEST		bootstrap.min.css	1724854565962	1724854566249	OK	 
+USER	Full User Journey on Firefox	END	1724854566259
+REQUEST		main.css	1724854565445	1724854566291	OK	 
+REQUEST		Delete a Computer	1724854566022	1724854566304	OK	 
+REQUEST		View Computer Details	1724854566037	1724854566321	OK	 
+REQUEST		Add a New Computer	1724854566084	1724854566366	OK	 
+REQUEST		bootstrap.min.css	1724854566108	1724854566387	OK	 
+REQUEST		main.css	1724854566109	1724854566393	OK	 
+REQUEST		main.css	1724854566143	1724854566415	OK	 
+REQUEST		bootstrap.min.css	1724854566142	1724854566431	OK	 
+REQUEST		Load Computers List	1724854565592	1724854566448	OK	 
+REQUEST		Search for a Computer	1724854566304	1724854566576	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854566305	1724854566599	OK	 
+USER	Full User Journey on Firefox	START	1724854566600
+REQUEST		main.css	1724854566323	1724854566604	OK	 
+REQUEST		bootstrap.min.css	1724854566323	1724854566618	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854566367	1724854566665	OK	 
+REQUEST		Delete a Computer	1724854566397	1724854566677	OK	 
+REQUEST		View Computer Details	1724854566445	1724854566719	OK	 
+REQUEST		bootstrap.min.css	1724854566450	1724854566742	OK	 
+REQUEST		main.css	1724854565963	1724854566795	OK	 
+REQUEST		main.css	1724854566579	1724854566851	OK	 
+REQUEST		bootstrap.min.css	1724854566578	1724854566864	OK	 
+REQUEST		main.css	1724854566602	1724854566882	OK	 
+REQUEST		bootstrap.min.css	1724854566601	1724854566890	OK	 
+USER	Full User Journey on Firefox	END	1724854566895
+REQUEST		Add a New Computer	1724854566630	1724854566914	OK	 
+REQUEST		bootstrap.min.css	1724854566667	1724854566950	OK	 
+REQUEST		main.css	1724854566668	1724854566952	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854566678	1724854566963	OK	 
+REQUEST		Load Computers List	1724854566100	1724854566984	OK	 
+REQUEST		main.css	1724854566721	1724854566994	OK	 
+REQUEST		bootstrap.min.css	1724854566721	1724854567019	OK	 
+REQUEST		Search for a Computer	1724854566801	1724854567083	OK	 
+USER	Full User Journey on Firefox	START	1724854567093
+REQUEST		View Computer Details	1724854566879	1724854567154	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854566915	1724854567209	OK	 
+REQUEST		Delete a Computer	1724854566956	1724854567234	OK	 
+REQUEST		bootstrap.min.css	1724854566966	1724854567250	OK	 
+REQUEST		main.css	1724854566966	1724854567255	OK	 
+USER	Full User Journey on Firefox	END	1724854567265
+REQUEST		main.css	1724854566451	1724854567280	OK	 
+REQUEST		bootstrap.min.css	1724854566987	1724854567280	OK	 
+REQUEST		Add a New Computer	1724854567032	1724854567305	OK	 
+REQUEST		bootstrap.min.css	1724854567085	1724854567361	OK	 
+REQUEST		main.css	1724854567086	1724854567367	OK	 
+REQUEST		main.css	1724854567157	1724854567427	OK	 
+REQUEST		bootstrap.min.css	1724854567156	1724854567438	OK	 
+REQUEST		Load Computers List	1724854566600	1724854567485	OK	 
+REQUEST		bootstrap.min.css	1724854567211	1724854567503	OK	 
+REQUEST		main.css	1724854567212	1724854567504	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854567234	1724854567522	OK	 
+REQUEST		Search for a Computer	1724854567294	1724854567576	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854567305	1724854567591	OK	 
+USER	Full User Journey on Firefox	START	1724854567602
+REQUEST		View Computer Details	1724854567371	1724854567647	OK	 
+REQUEST		Add a New Computer	1724854567449	1724854567721	OK	 
+REQUEST		bootstrap.min.css	1724854567487	1724854567790	OK	 
+REQUEST		Delete a Computer	1724854567510	1724854567793	OK	 
+REQUEST		bootstrap.min.css	1724854567525	1724854567809	OK	 
+REQUEST		main.css	1724854567525	1724854567811	OK	 
+USER	Full User Journey on Firefox	END	1724854567826
+REQUEST		bootstrap.min.css	1724854567578	1724854567858	OK	 
+REQUEST		main.css	1724854566988	1724854567860	OK	 
+REQUEST		main.css	1724854567579	1724854567860	OK	 
+REQUEST		bootstrap.min.css	1724854567592	1724854567876	OK	 
+REQUEST		main.css	1724854567593	1724854567877	OK	 
+REQUEST		main.css	1724854567649	1724854567925	OK	 
+REQUEST		bootstrap.min.css	1724854567649	1724854567942	OK	 
+REQUEST		Load Computers List	1724854567094	1724854567948	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854567722	1724854568006	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854567794	1724854568084	OK	 
+USER	Full User Journey on Firefox	START	1724854568097
+REQUEST		View Computer Details	1724854567865	1724854568138	OK	 
+REQUEST		Delete a Computer	1724854567880	1724854568152	OK	 
+REQUEST		Search for a Computer	1724854567865	1724854568153	OK	 
+REQUEST		Add a New Computer	1724854567957	1724854568229	OK	 
+REQUEST		bootstrap.min.css	1724854567950	1724854568237	OK	 
+REQUEST		bootstrap.min.css	1724854568008	1724854568289	OK	 
+REQUEST		main.css	1724854568008	1724854568290	OK	 
+REQUEST		main.css	1724854567488	1724854568335	OK	 
+REQUEST		bootstrap.min.css	1724854568086	1724854568374	OK	 
+REQUEST		main.css	1724854568086	1724854568376	OK	 
+USER	Full User Journey on Firefox	END	1724854568390
+REQUEST		main.css	1724854568141	1724854568414	OK	 
+REQUEST		bootstrap.min.css	1724854568140	1724854568437	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854568153	1724854568437	OK	 
+REQUEST		bootstrap.min.css	1724854568155	1724854568445	OK	 
+REQUEST		main.css	1724854568155	1724854568447	OK	 
+REQUEST		Load Computers List	1724854567602	1724854568498	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854568230	1724854568512	OK	 
+REQUEST		Delete a Computer	1724854568297	1724854568570	OK	 
+USER	Full User Journey on Firefox	START	1724854568608
+REQUEST		Search for a Computer	1724854568342	1724854568636	OK	 
+REQUEST		bootstrap.min.css	1724854568440	1724854568723	OK	 
+REQUEST		main.css	1724854568440	1724854568724	OK	 
+REQUEST		Add a New Computer	1724854568452	1724854568724	OK	 
+USER	Full User Journey on Firefox	END	1724854568728
+REQUEST		View Computer Details	1724854568452	1724854568735	OK	 
+REQUEST		bootstrap.min.css	1724854568500	1724854568794	OK	 
+REQUEST		bootstrap.min.css	1724854568513	1724854568794	OK	 
+REQUEST		main.css	1724854568514	1724854568795	OK	 
+REQUEST		main.css	1724854567951	1724854568811	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854568571	1724854568856	OK	 
+REQUEST		bootstrap.min.css	1724854568638	1724854568929	OK	 
+REQUEST		main.css	1724854568639	1724854568931	OK	 
+REQUEST		Load Computers List	1724854568097	1724854568977	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854568725	1724854569007	OK	 
+REQUEST		main.css	1724854568737	1724854569021	OK	 
+REQUEST		bootstrap.min.css	1724854568737	1724854569036	OK	 
+REQUEST		Delete a Computer	1724854568803	1724854569076	OK	 
+USER	Full User Journey on Firefox	START	1724854569097
+REQUEST		Search for a Computer	1724854568819	1724854569101	OK	 
+REQUEST		bootstrap.min.css	1724854568858	1724854569136	OK	 
+REQUEST		main.css	1724854568859	1724854569137	OK	 
+USER	Full User Journey on Firefox	END	1724854569143
+REQUEST		View Computer Details	1724854568943	1724854569226	OK	 
+REQUEST		bootstrap.min.css	1724854568979	1724854569284	OK	 
+REQUEST		bootstrap.min.css	1724854569011	1724854569292	OK	 
+REQUEST		main.css	1724854569011	1724854569294	OK	 
+REQUEST		Add a New Computer	1724854569050	1724854569338	OK	 
+REQUEST		main.css	1724854568500	1724854569352	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854569077	1724854569368	OK	 
+REQUEST		main.css	1724854569103	1724854569383	OK	 
+REQUEST		bootstrap.min.css	1724854569102	1724854569392	OK	 
+REQUEST		Load Computers List	1724854568608	1724854569468	OK	 
+REQUEST		main.css	1724854569228	1724854569509	OK	 
+REQUEST		bootstrap.min.css	1724854569228	1724854569530	OK	 
+REQUEST		Delete a Computer	1724854569298	1724854569571	OK	 
+USER	Full User Journey on Firefox	START	1724854569590
+REQUEST		Add a New Computer Redirect 1	1724854569339	1724854569631	OK	 
+REQUEST		Search for a Computer	1724854569360	1724854569651	OK	 
+REQUEST		bootstrap.min.css	1724854569369	1724854569651	OK	 
+REQUEST		main.css	1724854569370	1724854569652	OK	 
+USER	Full User Journey on Firefox	END	1724854569668
+REQUEST		View Computer Details	1724854569405	1724854569698	OK	 
+REQUEST		bootstrap.min.css	1724854569470	1724854569759	OK	 
+REQUEST		Add a New Computer	1724854569543	1724854569824	OK	 
+REQUEST		main.css	1724854568980	1724854569852	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854569571	1724854569860	OK	 
+REQUEST		bootstrap.min.css	1724854569633	1724854569923	OK	 
+REQUEST		main.css	1724854569634	1724854569925	OK	 
+REQUEST		bootstrap.min.css	1724854569653	1724854569939	OK	 
+REQUEST		main.css	1724854569654	1724854569950	OK	 
+REQUEST		Load Computers List	1724854569097	1724854569971	OK	 
+REQUEST		main.css	1724854569701	1724854569979	OK	 
+REQUEST		bootstrap.min.css	1724854569700	1724854569987	OK	 
+USER	Full User Journey on Firefox	START	1724854570094
+REQUEST		Add a New Computer Redirect 1	1724854569825	1724854570117	OK	 
+REQUEST		bootstrap.min.css	1724854569862	1724854570138	OK	 
+REQUEST		main.css	1724854569862	1724854570145	OK	 
+REQUEST		Search for a Computer	1724854569864	1724854570156	OK	 
+USER	Full User Journey on Firefox	END	1724854570156
+REQUEST		Delete a Computer	1724854569939	1724854570224	OK	 
+REQUEST		View Computer Details	1724854569955	1724854570234	OK	 
+REQUEST		bootstrap.min.css	1724854569973	1724854570265	OK	 
+REQUEST		Add a New Computer	1724854570001	1724854570281	OK	 
+REQUEST		main.css	1724854569471	1724854570325	OK	 
+REQUEST		bootstrap.min.css	1724854570119	1724854570404	OK	 
+REQUEST		main.css	1724854570120	1724854570410	OK	 
+REQUEST		Load Computers List	1724854569590	1724854570420	OK	 
+REQUEST		main.css	1724854570158	1724854570467	OK	 
+REQUEST		bootstrap.min.css	1724854570158	1724854570468	OK	 
+REQUEST		main.css	1724854570237	1724854570528	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854570225	1724854570529	OK	 
+REQUEST		bootstrap.min.css	1724854570236	1724854570538	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854570282	1724854570569	OK	 
+USER	Full User Journey on Firefox	START	1724854570589
+REQUEST		Search for a Computer	1724854570341	1724854570623	OK	 
+REQUEST		Delete a Computer	1724854570419	1724854570699	OK	 
+REQUEST		bootstrap.min.css	1724854570422	1724854570700	OK	 
+REQUEST		View Computer Details	1724854570482	1724854570776	OK	 
+REQUEST		bootstrap.min.css	1724854570531	1724854570820	OK	 
+REQUEST		main.css	1724854570531	1724854570821	OK	 
+REQUEST		main.css	1724854569974	1724854570823	OK	 
+REQUEST		Add a New Computer	1724854570542	1724854570823	OK	 
+USER	Full User Journey on Firefox	END	1724854570825
+REQUEST		bootstrap.min.css	1724854570571	1724854570855	OK	 
+REQUEST		main.css	1724854570572	1724854570856	OK	 
+REQUEST		main.css	1724854570626	1724854570906	OK	 
+REQUEST		bootstrap.min.css	1724854570625	1724854570908	OK	 
+REQUEST		Load Computers List	1724854570094	1724854570959	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854570700	1724854570992	OK	 
+REQUEST		bootstrap.min.css	1724854570779	1724854571071	OK	 
+REQUEST		main.css	1724854570779	1724854571072	OK	 
+USER	Full User Journey on Firefox	START	1724854571103
+REQUEST		Add a New Computer Redirect 1	1724854570823	1724854571120	OK	 
+REQUEST		Search for a Computer	1724854570839	1724854571123	OK	 
+REQUEST		Delete a Computer	1724854570870	1724854571165	OK	 
+REQUEST		View Computer Details	1724854570916	1724854571204	OK	 
+REQUEST		bootstrap.min.css	1724854570960	1724854571255	OK	 
+REQUEST		main.css	1724854570422	1724854571257	OK	 
+REQUEST		bootstrap.min.css	1724854570994	1724854571285	OK	 
+REQUEST		main.css	1724854570995	1724854571287	OK	 
+USER	Full User Journey on Firefox	END	1724854571304
+REQUEST		Add a New Computer	1724854571087	1724854571378	OK	 
+REQUEST		bootstrap.min.css	1724854571122	1724854571421	OK	 
+REQUEST		bootstrap.min.css	1724854571125	1724854571422	OK	 
+REQUEST		main.css	1724854571123	1724854571423	OK	 
+REQUEST		main.css	1724854571126	1724854571423	OK	 
+REQUEST		Load Computers List	1724854570590	1724854571454	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854571166	1724854571454	OK	 
+REQUEST		main.css	1724854571207	1724854571487	OK	 
+REQUEST		bootstrap.min.css	1724854571206	1724854571490	OK	 
+REQUEST		Search for a Computer	1724854571273	1724854571550	OK	 
+USER	Full User Journey on Firefox	START	1724854571595
+REQUEST		Add a New Computer Redirect 1	1724854571379	1724854571678	OK	 
+REQUEST		Delete a Computer	1724854571427	1724854571707	OK	 
+REQUEST		View Computer Details	1724854571427	1724854571710	OK	 
+REQUEST		bootstrap.min.css	1724854571456	1724854571739	OK	 
+REQUEST		bootstrap.min.css	1724854571456	1724854571739	OK	 
+REQUEST		main.css	1724854571456	1724854571740	OK	 
+USER	Full User Journey on Firefox	END	1724854571752
+REQUEST		Add a New Computer	1724854571503	1724854571784	OK	 
+REQUEST		bootstrap.min.css	1724854571553	1724854571830	OK	 
+REQUEST		main.css	1724854571553	1724854571832	OK	 
+REQUEST		main.css	1724854570961	1724854571845	OK	 
+REQUEST		Load Computers List	1724854571103	1724854571961	OK	 
+REQUEST		main.css	1724854571681	1724854571983	OK	 
+REQUEST		bootstrap.min.css	1724854571680	1724854571984	OK	 
+REQUEST		main.css	1724854571713	1724854571995	OK	 
+REQUEST		bootstrap.min.css	1724854571712	1724854572001	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854571707	1724854572001	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854571784	1724854572069	OK	 
+USER	Full User Journey on Firefox	START	1724854572091
+REQUEST		View Computer Details	1724854571843	1724854572116	OK	 
+REQUEST		Search for a Computer	1724854571858	1724854572143	OK	 
+REQUEST		bootstrap.min.css	1724854571963	1724854572251	OK	 
+REQUEST		bootstrap.min.css	1724854572003	1724854572288	OK	 
+REQUEST		Delete a Computer	1724854571997	1724854572287	OK	 
+REQUEST		main.css	1724854572004	1724854572296	OK	 
+REQUEST		Add a New Computer	1724854572013	1724854572296	OK	 
+USER	Full User Journey on Firefox	END	1724854572306
+REQUEST		main.css	1724854571457	1724854572316	OK	 
+REQUEST		main.css	1724854572072	1724854572353	OK	 
+REQUEST		bootstrap.min.css	1724854572071	1724854572355	OK	 
+REQUEST		main.css	1724854572119	1724854572390	OK	 
+REQUEST		bootstrap.min.css	1724854572118	1724854572399	OK	 
+REQUEST		main.css	1724854572146	1724854572433	OK	 
+REQUEST		bootstrap.min.css	1724854572145	1724854572445	OK	 
+REQUEST		Load Computers List	1724854571596	1724854572448	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854572289	1724854572578	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854572296	1724854572588	OK	 
+USER	Full User Journey on Firefox	START	1724854572599
+REQUEST		Search for a Computer	1724854572322	1724854572603	OK	 
+REQUEST		Delete a Computer	1724854572367	1724854572649	OK	 
+REQUEST		Add a New Computer	1724854572413	1724854572689	OK	 
+REQUEST		bootstrap.min.css	1724854572450	1724854572741	OK	 
+REQUEST		View Computer Details	1724854572458	1724854572744	OK	 
+REQUEST		main.css	1724854571964	1724854572845	OK	 
+REQUEST		main.css	1724854572581	1724854572870	OK	 
+REQUEST		bootstrap.min.css	1724854572591	1724854572882	OK	 
+REQUEST		bootstrap.min.css	1724854572580	1724854572883	OK	 
+REQUEST		main.css	1724854572591	1724854572884	OK	 
+REQUEST		main.css	1724854572605	1724854572889	OK	 
+USER	Full User Journey on Firefox	END	1724854572898
+REQUEST		bootstrap.min.css	1724854572605	1724854572898	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854572650	1724854572931	OK	 
+REQUEST		Load Computers List	1724854572091	1724854572934	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854572690	1724854572968	OK	 
+REQUEST		main.css	1724854572747	1724854573031	OK	 
+REQUEST		bootstrap.min.css	1724854572746	1724854573052	OK	 
+USER	Full User Journey on Firefox	START	1724854573096
+REQUEST		Search for a Computer	1724854572850	1724854573132	OK	 
+REQUEST		Delete a Computer	1724854572896	1724854573183	OK	 
+REQUEST		View Computer Details	1724854572912	1724854573193	OK	 
+REQUEST		main.css	1724854572934	1724854573218	OK	 
+REQUEST		bootstrap.min.css	1724854572934	1724854573219	OK	 
+REQUEST		bootstrap.min.css	1724854572936	1724854573223	OK	 
+USER	Full User Journey on Firefox	END	1724854573233
+REQUEST		main.css	1724854572970	1724854573244	OK	 
+REQUEST		bootstrap.min.css	1724854572970	1724854573245	OK	 
+REQUEST		main.css	1724854572451	1724854573308	OK	 
+REQUEST		Add a New Computer	1724854573066	1724854573353	OK	 
+REQUEST		main.css	1724854573134	1724854573414	OK	 
+REQUEST		bootstrap.min.css	1724854573133	1724854573432	OK	 
+REQUEST		Load Computers List	1724854572599	1724854573449	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854573183	1724854573470	OK	 
+REQUEST		main.css	1724854573195	1724854573474	OK	 
+REQUEST		bootstrap.min.css	1724854573194	1724854573493	OK	 
+REQUEST		Delete a Computer	1724854573248	1724854573524	OK	 
+REQUEST		Search for a Computer	1724854573323	1724854573605	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854573353	1724854573647	OK	 
+REQUEST		View Computer Details	1724854573446	1724854573726	OK	 
+REQUEST		bootstrap.min.css	1724854573450	1724854573732	OK	 
+REQUEST		bootstrap.min.css	1724854573472	1724854573756	OK	 
+REQUEST		main.css	1724854573473	1724854573758	OK	 
+USER	Full User Journey on Firefox	END	1724854573771
+REQUEST		Add a New Computer	1724854573508	1724854573789	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854573525	1724854573797	OK	 
+REQUEST		main.css	1724854572936	1724854573814	OK	 
+REQUEST		main.css	1724854573608	1724854573889	OK	 
+REQUEST		bootstrap.min.css	1724854573607	1724854573910	OK	 
+REQUEST		bootstrap.min.css	1724854573649	1724854573942	OK	 
+REQUEST		main.css	1724854573650	1724854573944	OK	 
+REQUEST		Load Computers List	1724854573096	1724854573956	OK	 
+REQUEST		main.css	1724854573729	1724854574009	OK	 
+REQUEST		bootstrap.min.css	1724854573728	1724854574026	OK	 
+REQUEST		main.css	1724854573800	1724854574084	OK	 
+USER	Full User Journey on Firefox	START	1724854573600
+REQUEST		Add a New Computer Redirect 1	1724854573790	1724854574086	OK	 
+REQUEST		bootstrap.min.css	1724854573799	1724854574086	OK	 
+REQUEST		Search for a Computer	1724854573816	1724854574096	OK	 
+USER	Full User Journey on Firefox	END	1724854574096
+USER	Full User Journey on Firefox	START	1724854574095
+REQUEST		View Computer Details	1724854573924	1724854574209	OK	 
+REQUEST		Delete a Computer	1724854573955	1724854574263	OK	 
+REQUEST		bootstrap.min.css	1724854573957	1724854574264	OK	 
+REQUEST		main.css	1724854573451	1724854574304	OK	 
+REQUEST		Add a New Computer	1724854574033	1724854574325	OK	 
+REQUEST		bootstrap.min.css	1724854574087	1724854574372	OK	 
+REQUEST		main.css	1724854574088	1724854574373	OK	 
+REQUEST		main.css	1724854574098	1724854574375	OK	 
+REQUEST		bootstrap.min.css	1724854574097	1724854574389	OK	 
+REQUEST		main.css	1724854574212	1724854574493	OK	 
+REQUEST		bootstrap.min.css	1724854574211	1724854574512	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854574264	1724854574557	OK	 
+REQUEST		Search for a Computer	1724854574310	1724854574587	OK	 
+USER	Full User Journey on Firefox	START	1724854574608
+REQUEST		Add a New Computer Redirect 1	1724854574326	1724854574622	OK	 
+REQUEST		Delete a Computer	1724854574388	1724854574666	OK	 
+REQUEST		View Computer Details	1724854574403	1724854574683	OK	 
+REQUEST		Add a New Computer	1724854574526	1724854574811	OK	 
+REQUEST		bootstrap.min.css	1724854574559	1724854574850	OK	 
+REQUEST		main.css	1724854574559	1724854574851	OK	 
+USER	Full User Journey on Firefox	END	1724854574854
+REQUEST		main.css	1724854574589	1724854574864	OK	 
+REQUEST		bootstrap.min.css	1724854574589	1724854574875	OK	 
+REQUEST		bootstrap.min.css	1724854574624	1724854574911	OK	 
+REQUEST		Load Computers List	1724854573600	1724854574913	OK	 
+REQUEST		main.css	1724854574624	1724854574913	OK	 
+REQUEST		main.css	1724854573958	1724854574961	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854574667	1724854574961	OK	 
+REQUEST		Load Computers List	1724854574095	1724854574962	OK	 
+REQUEST		main.css	1724854574685	1724854574963	OK	 
+REQUEST		bootstrap.min.css	1724854574685	1724854574978	OK	 
+USER	Full User Journey on Firefox	START	1724854575101
+REQUEST		Add a New Computer Redirect 1	1724854574812	1724854575102	OK	 
+REQUEST		View Computer Details	1724854574884	1724854575163	OK	 
+REQUEST		bootstrap.min.css	1724854574915	1724854575193	OK	 
+REQUEST		Delete a Computer	1724854574930	1724854575212	OK	 
+REQUEST		bootstrap.min.css	1724854574964	1724854575246	OK	 
+REQUEST		main.css	1724854574964	1724854575252	OK	 
+REQUEST		bootstrap.min.css	1724854574963	1724854575252	OK	 
+USER	Full User Journey on Firefox	END	1724854575257
+REQUEST		Search for a Computer	1724854574976	1724854575263	OK	 
+REQUEST		Add a New Computer	1724854574992	1724854575274	OK	 
+REQUEST		main.css	1724854575105	1724854575388	OK	 
+REQUEST		bootstrap.min.css	1724854575104	1724854575412	OK	 
+REQUEST		main.css	1724854575166	1724854575442	OK	 
+REQUEST		bootstrap.min.css	1724854575165	1724854575459	OK	 
+REQUEST		Load Computers List	1724854574608	1724854575509	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854575212	1724854575509	OK	 
+REQUEST		main.css	1724854575266	1724854575581	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854575274	1724854575581	OK	 
+REQUEST		bootstrap.min.css	1724854575265	1724854575582	OK	 
+USER	Full User Journey on Firefox	START	1724854575596
+REQUEST		Delete a Computer	1724854575427	1724854575711	OK	 
+REQUEST		Add a New Computer	1724854575474	1724854575751	OK	 
+REQUEST		bootstrap.min.css	1724854575511	1724854575798	OK	 
+REQUEST		main.css	1724854575511	1724854575801	OK	 
+REQUEST		main.css	1724854574915	1724854575803	OK	 
+USER	Full User Journey on Firefox	END	1724854575813
+REQUEST		bootstrap.min.css	1724854575510	1724854575813	OK	 
+REQUEST		main.css	1724854574964	1724854575821	OK	 
+REQUEST		bootstrap.min.css	1724854575583	1724854575873	OK	 
+REQUEST		main.css	1724854575583	1724854575874	OK	 
+REQUEST		View Computer Details	1724854575596	1724854575876	OK	 
+REQUEST		Load Computers List	1724854575101	1724854575957	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854575711	1724854576001	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854575751	1724854576036	OK	 
+REQUEST		Search for a Computer	1724854575812	1724854576089	OK	 
+USER	Full User Journey on Firefox	START	1724854576103
+REQUEST		Search for a Computer	1724854575827	1724854576108	OK	 
+REQUEST		main.css	1724854575879	1724854576161	OK	 
+REQUEST		Delete a Computer	1724854575888	1724854576165	OK	 
+REQUEST		bootstrap.min.css	1724854575878	1724854576166	OK	 
+REQUEST		bootstrap.min.css	1724854575959	1724854576243	OK	 
+REQUEST		main.css	1724854576003	1724854576285	OK	 
+REQUEST		bootstrap.min.css	1724854576002	1724854576305	OK	 
+REQUEST		bootstrap.min.css	1724854576038	1724854576320	OK	 
+USER	Full User Journey on Firefox	END	1724854576320
+REQUEST		main.css	1724854576039	1724854576322	OK	 
+REQUEST		main.css	1724854575511	1724854576362	OK	 
+REQUEST		main.css	1724854576091	1724854576364	OK	 
+REQUEST		main.css	1724854576111	1724854576412	OK	 
+REQUEST		bootstrap.min.css	1724854576090	1724854576413	OK	 
+REQUEST		bootstrap.min.css	1724854576110	1724854576413	OK	 
+REQUEST		Load Computers List	1724854575596	1724854576448	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854576166	1724854576462	OK	 
+REQUEST		Add a New Computer	1724854576180	1724854576464	OK	 
+USER	Full User Journey on Firefox	START	1724854576598
+REQUEST		Delete a Computer	1724854576335	1724854576610	OK	 
+REQUEST		Search for a Computer	1724854576366	1724854576661	OK	 
+REQUEST		View Computer Details	1724854576426	1724854576712	OK	 
+REQUEST		View Computer Details	1724854576426	1724854576713	OK	 
+REQUEST		bootstrap.min.css	1724854576450	1724854576737	OK	 
+REQUEST		bootstrap.min.css	1724854576464	1724854576748	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854576465	1724854576748	OK	 
+REQUEST		main.css	1724854576465	1724854576753	OK	 
+USER	Full User Journey on Firefox	END	1724854576770
+REQUEST		main.css	1724854575960	1724854576791	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854576611	1724854576895	OK	 
+REQUEST		Load Computers List	1724854576103	1724854576937	OK	 
+REQUEST		bootstrap.min.css	1724854576662	1724854576948	OK	 
+REQUEST		main.css	1724854576663	1724854576955	OK	 
+REQUEST		main.css	1724854576715	1724854576986	OK	 
+REQUEST		main.css	1724854576715	1724854576996	OK	 
+REQUEST		bootstrap.min.css	1724854576714	1724854577004	OK	 
+REQUEST		bootstrap.min.css	1724854576714	1724854577019	OK	 
+REQUEST		bootstrap.min.css	1724854576750	1724854577033	OK	 
+REQUEST		main.css	1724854576750	1724854577034	OK	 
+REQUEST		Search for a Computer	1724854576800	1724854577079	OK	 
+USER	Full User Journey on Firefox	START	1724854577095
+REQUEST		bootstrap.min.css	1724854576897	1724854577180	OK	 
+REQUEST		main.css	1724854576897	1724854577181	OK	 
+USER	Full User Journey on Firefox	END	1724854577189
+REQUEST		bootstrap.min.css	1724854576939	1724854577220	OK	 
+REQUEST		View Computer Details	1724854576972	1724854577255	OK	 
+REQUEST		Add a New Computer	1724854577018	1724854577300	OK	 
+REQUEST		Add a New Computer	1724854577033	1724854577306	OK	 
+REQUEST		main.css	1724854576451	1724854577324	OK	 
+REQUEST		Delete a Computer	1724854577049	1724854577327	OK	 
+REQUEST		bootstrap.min.css	1724854577080	1724854577359	OK	 
+REQUEST		main.css	1724854577081	1724854577360	OK	 
+REQUEST		Load Computers List	1724854576598	1724854577435	OK	 
+REQUEST		main.css	1724854577258	1724854577538	OK	 
+REQUEST		bootstrap.min.css	1724854577257	1724854577561	OK	 
+USER	Full User Journey on Firefox	START	1724854577591
+REQUEST		Add a New Computer Redirect 1	1724854577307	1724854577600	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854577300	1724854577600	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854577328	1724854577612	OK	 
+REQUEST		Search for a Computer	1724854577330	1724854577615	OK	 
+REQUEST		View Computer Details	1724854577376	1724854577652	OK	 
+REQUEST		bootstrap.min.css	1724854577437	1724854577716	OK	 
+REQUEST		main.css	1724854576940	1724854577801	OK	 
+REQUEST		Add a New Computer	1724854577575	1724854577860	OK	 
+REQUEST		bootstrap.min.css	1724854577603	1724854577885	OK	 
+REQUEST		bootstrap.min.css	1724854577603	1724854577886	OK	 
+REQUEST		main.css	1724854577603	1724854577886	OK	 
+REQUEST		main.css	1724854577603	1724854577894	OK	 
+REQUEST		bootstrap.min.css	1724854577614	1724854577898	OK	 
+REQUEST		main.css	1724854577615	1724854577899	OK	 
+REQUEST		main.css	1724854577618	1724854577902	OK	 
+REQUEST		bootstrap.min.css	1724854577618	1724854577912	OK	 
+USER	Full User Journey on Firefox	END	1724854577913
+REQUEST		main.css	1724854577657	1724854577930	OK	 
+REQUEST		bootstrap.min.css	1724854577656	1724854577943	OK	 
+REQUEST		Load Computers List	1724854577096	1724854577953	OK	 
+USER	Full User Journey on Firefox	START	1724854578095
+REQUEST		Search for a Computer	1724854577806	1724854578202	OK	 
+REQUEST		Delete a Computer	1724854577897	1724854578202	OK	 
+REQUEST		Delete a Computer	1724854577896	1724854578203	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854577860	1724854578203	OK	 
+REQUEST		View Computer Details	1724854577926	1724854578209	OK	 
+REQUEST		Add a New Computer	1724854577957	1724854578230	OK	 
+REQUEST		bootstrap.min.css	1724854577957	1724854578250	OK	 
+REQUEST		main.css	1724854578205	1724854578479	OK	 
+REQUEST		main.css	1724854577438	1724854578488	OK	 
+REQUEST		bootstrap.min.css	1724854578205	1724854578488	OK	 
+REQUEST		Load Computers List	1724854577591	1724854578496	OK	 
+REQUEST		bootstrap.min.css	1724854578204	1724854578496	OK	 
+REQUEST		main.css	1724854578211	1724854578497	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854578203	1724854578497	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854578203	1724854578497	OK	 
+REQUEST		main.css	1724854578205	1724854578510	OK	 
+REQUEST		bootstrap.min.css	1724854578211	1724854578510	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854578230	1724854578516	OK	 
+USER	Full User Journey on Firefox	START	1724854578604
+REQUEST		Search for a Computer	1724854578494	1724854578767	OK	 
+REQUEST		bootstrap.min.css	1724854578498	1724854578778	OK	 
+REQUEST		bootstrap.min.css	1724854578498	1724854578781	OK	 
+REQUEST		bootstrap.min.css	1724854578498	1724854578781	OK	 
+REQUEST		main.css	1724854578499	1724854578782	OK	 
+REQUEST		View Computer Details	1724854578509	1724854578783	OK	 
+REQUEST		main.css	1724854578498	1724854578788	OK	 
+USER	Full User Journey on Firefox	END	1724854578791
+REQUEST		bootstrap.min.css	1724854578518	1724854578799	OK	 
+REQUEST		main.css	1724854578519	1724854578800	OK	 
+REQUEST		Delete a Computer	1724854578525	1724854578805	OK	 
+REQUEST		main.css	1724854577958	1724854578805	OK	 
+USER	Full User Journey on Firefox	END	1724854578806
+REQUEST		Add a New Computer	1724854578525	1724854578806	OK	 
+REQUEST		Load Computers List	1724854578095	1724854578956	OK	 
+REQUEST		main.css	1724854578769	1724854579042	OK	 
+REQUEST		main.css	1724854578785	1724854579058	OK	 
+REQUEST		bootstrap.min.css	1724854578768	1724854579058	OK	 
+REQUEST		bootstrap.min.css	1724854578784	1724854579069	OK	 
+REQUEST		Delete a Computer	1724854578805	1724854579078	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854578807	1724854579096	OK	 
+USER	Full User Journey on Firefox	START	1724854579097
+REQUEST		Delete a Computer Redirect 1	1724854578805	1724854579101	OK	 
+REQUEST		Search for a Computer	1724854578820	1724854579102	OK	 
+REQUEST		bootstrap.min.css	1724854578958	1724854579252	OK	 
+REQUEST		View Computer Details	1724854579066	1724854579340	OK	 
+REQUEST		main.css	1724854578498	1724854579353	OK	 
+REQUEST		Add a New Computer	1724854579081	1724854579353	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854579078	1724854579358	OK	 
+REQUEST		bootstrap.min.css	1724854579098	1724854579387	OK	 
+REQUEST		main.css	1724854579098	1724854579391	OK	 
+REQUEST		main.css	1724854579104	1724854579405	OK	 
+REQUEST		bootstrap.min.css	1724854579102	1724854579405	OK	 
+REQUEST		main.css	1724854579103	1724854579406	OK	 
+REQUEST		bootstrap.min.css	1724854579103	1724854579406	OK	 
+USER	Full User Journey on Firefox	END	1724854579420
+REQUEST		Load Computers List	1724854578604	1724854579482	OK	 
+USER	Full User Journey on Firefox	START	1724854579592
+REQUEST		main.css	1724854579343	1724854579635	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854579354	1724854579635	OK	 
+REQUEST		bootstrap.min.css	1724854579342	1724854579636	OK	 
+REQUEST		bootstrap.min.css	1724854579360	1724854579639	OK	 
+REQUEST		main.css	1724854579361	1724854579639	OK	 
+REQUEST		Search for a Computer	1724854579358	1724854579641	OK	 
+USER	Full User Journey on Firefox	END	1724854579654
+REQUEST		Delete a Computer	1724854579404	1724854579685	OK	 
+REQUEST		View Computer Details	1724854579419	1724854579718	OK	 
+REQUEST		bootstrap.min.css	1724854579484	1724854579792	OK	 
+REQUEST		main.css	1724854578958	1724854579834	OK	 
+REQUEST		bootstrap.min.css	1724854579636	1724854579917	OK	 
+REQUEST		main.css	1724854579637	1724854579919	OK	 
+REQUEST		main.css	1724854579643	1724854579941	OK	 
+REQUEST		Add a New Computer	1724854579653	1724854579941	OK	 
+REQUEST		bootstrap.min.css	1724854579642	1724854579943	OK	 
+REQUEST		Load Computers List	1724854579097	1724854579976	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854579686	1724854579976	OK	 
+REQUEST		bootstrap.min.css	1724854579720	1724854580010	OK	 
+REQUEST		main.css	1724854579721	1724854580013	OK	 
+USER	Full User Journey on Firefox	START	1724854580101
+REQUEST		Search for a Computer	1724854579837	1724854580122	OK	 
+REQUEST		Delete a Computer	1724854579932	1724854580211	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854579942	1724854580226	OK	 
+REQUEST		View Computer Details	1724854579947	1724854580235	OK	 
+REQUEST		bootstrap.min.css	1724854579978	1724854580265	OK	 
+REQUEST		main.css	1724854579978	1724854580266	OK	 
+USER	Full User Journey on Firefox	END	1724854580272
+REQUEST		bootstrap.min.css	1724854579977	1724854580272	OK	 
+REQUEST		Add a New Computer	1724854580024	1724854580305	OK	 
+REQUEST		main.css	1724854579485	1724854580317	OK	 
+REQUEST		bootstrap.min.css	1724854580124	1724854580434	OK	 
+REQUEST		main.css	1724854580125	1724854580436	OK	 
+REQUEST		Load Computers List	1724854579592	1724854580472	OK	 
+REQUEST		Delete a Computer Redirect 1	1724854580212	1724854580494	OK	 
+REQUEST		bootstrap.min.css	1724854580228	1724854580516	OK	 
+REQUEST		main.css	1724854580228	1724854580517	OK	 
+REQUEST		main.css	1724854580237	1724854580534	OK	 
+REQUEST		bootstrap.min.css	1724854580236	1724854580535	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854580306	1724854580590	OK	 
+USER	Full User Journey on Firefox	START	1724854580594
+REQUEST		Search for a Computer	1724854580333	1724854580644	OK	 
+REQUEST		View Computer Details	1724854580441	1724854580721	OK	 
+REQUEST		bootstrap.min.css	1724854580474	1724854580764	OK	 
+REQUEST		bootstrap.min.css	1724854580496	1724854580779	OK	 
+REQUEST		main.css	1724854580496	1724854580780	OK	 
+USER	Full User Journey on Firefox	END	1724854580796
+REQUEST		Delete a Computer	1724854580533	1724854580813	OK	 
+REQUEST		main.css	1724854579979	1724854580835	OK	 
+REQUEST		Add a New Computer	1724854580548	1724854580835	OK	 
+REQUEST		main.css	1724854580593	1724854580878	OK	 
+REQUEST		bootstrap.min.css	1724854580592	1724854580887	OK	 
+REQUEST		bootstrap.min.css	1724854580645	1724854580933	OK	 
+REQUEST		main.css	1724854580646	1724854580939	OK	 
+REQUEST		Load Computers List	1724854580101	1724854580954	OK	 
+REQUEST		main.css	1724854580723	1724854581008	OK	 
+REQUEST		bootstrap.min.css	1724854580723	1724854581024	OK	 
+USER	Full User Journey on Firefox	START	1724854581101
+REQUEST		Delete a Computer Redirect 1	1724854580814	1724854581105	OK	 
+REQUEST		Add a New Computer Redirect 1	1724854580835	1724854581123	OK	 
+REQUEST		Search for a Computer	1724854580840	1724854581136	OK	 
+REQUEST		Delete a Computer	1724854580901	1724854581196	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854581209
+REQUEST		View Computer Details	1724854580946	1724854581222	KO	status.find.is(200), but actually found 429
+REQUEST		bootstrap.min.css	1724854580955	1724854581236	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		main.css	1724854580474	1724854581318	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		Add a New Computer	1724854581039	1724854581320	KO	status.find.is(200), but actually found 429
+REQUEST		bootstrap.min.css	1724854581106	1724854581389	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		main.css	1724854581107	1724854581398	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+USER	Full User Journey on Firefox	END	1724854581411
+REQUEST		bootstrap.min.css	1724854581124	1724854581423	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		main.css	1724854581125	1724854581424	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		bootstrap.min.css	1724854581137	1724854581440	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		main.css	1724854581138	1724854581448	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+REQUEST		Load Computers List	1724854580594	1724854581522	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854581240	1724854581548	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854581596
+REQUEST		Delete a Computer	1724854581331	1724854581645	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854581331	1724854581645	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854581658
+REQUEST		Delete a Computer	1724854581440	1724854581752	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854581455	1724854581752	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854581767
+REQUEST		Search for a Computer	1724854581534	1724854581852	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854581564	1724854581852	KO	status.find.is(200), but actually found 429
+REQUEST		main.css	1724854580956	1724854581853	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 429
+USER	Full User Journey on Firefox	END	1724854581860
+REQUEST		View Computer Details	1724854581657	1724854581949	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854581101	1724854581995	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854581766	1724854582079	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854582103
+REQUEST		Search for a Computer	1724854581859	1724854582168	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854581859	1724854582168	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854581965	1724854582259	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854582011	1724854582315	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854582088	1724854582378	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854582400
+REQUEST		View Computer Details	1724854582182	1724854582470	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854582182	1724854582484	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854582273	1724854582545	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854582549
+REQUEST		Load Computers List	1724854581597	1724854582554	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854582595
+REQUEST		View Computer Details	1724854582318	1724854582600	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854582472	1724854582752	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854582487	1724854582777	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854582781
+REQUEST		Search for a Computer	1724854582564	1724854582859	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854582610	1724854582889	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854582104	1724854582931	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854582764	1724854583048	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854583059
+USER	Full User Journey on Firefox	START	1724854583088
+REQUEST		View Computer Details	1724854582873	1724854583163	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854582904	1724854583183	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854583197
+REQUEST		Search for a Computer	1724854582935	1724854583208	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854582595	1724854583444	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854583166	1724854583457	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854583212	1724854583485	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854583597
+REQUEST		Search for a Computer	1724854583459	1724854583739	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854583490	1724854583760	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854583474	1724854583767	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854583770
+REQUEST		Load Computers List	1724854583088	1724854583943	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854583753	1724854584032	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854583769	1724854584040	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854584046
+USER	Full User Journey on Firefox	START	1724854584093
+REQUEST		Search for a Computer	1724854583953	1724854584233	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854584045	1724854584325	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854583598	1724854584433	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854584250	1724854584531	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854584592
+REQUEST		Delete a Computer	1724854584329	1724854584610	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854584624
+REQUEST		Search for a Computer	1724854584438	1724854584709	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854584546	1724854584824	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854584094	1724854584951	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854584713	1724854584985	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854585099
+REQUEST		Delete a Computer	1724854584836	1724854585115	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854585131
+REQUEST		Search for a Computer	1724854584960	1724854585239	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854584992	1724854585271	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854584592	1724854585419	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854585254	1724854585534	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854585285	1724854585557	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854585565
+USER	Full User Journey on Firefox	START	1724854585595
+REQUEST		Search for a Computer	1724854585422	1724854585699	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854585549	1724854585829	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854585099	1724854585973	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854585703	1724854585973	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854586095
+REQUEST		Delete a Computer	1724854585844	1724854586121	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854586126
+REQUEST		Add a New Computer	1724854585984	1724854586254	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854585984	1724854586264	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854585595	1724854586484	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854586267	1724854586540	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854586546
+REQUEST		View Computer Details	1724854586267	1724854586549	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854586592
+REQUEST		Search for a Computer	1724854586499	1724854586788	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854586561	1724854586843	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854586095	1724854586928	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854586791	1724854587090	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854587103
+REQUEST		Delete a Computer	1724854586855	1724854587138	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854587151
+REQUEST		Search for a Computer	1724854586932	1724854587204	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854587103	1724854587392	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854586593	1724854587467	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854587212	1724854587484	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854587599
+REQUEST		Delete a Computer	1724854587398	1724854587686	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854587693
+REQUEST		Search for a Computer	1724854587476	1724854587758	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854587491	1724854587763	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854587103	1724854587937	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854587770	1724854588042	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854588048
+REQUEST		View Computer Details	1724854587770	1724854588052	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854588095
+REQUEST		Search for a Computer	1724854587941	1724854588213	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854588063	1724854588356	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854587599	1724854588433	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854588216	1724854588490	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854588591
+REQUEST		Delete a Computer	1724854588372	1724854588653	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854588669
+REQUEST		Search for a Computer	1724854588450	1724854588722	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854588498	1724854588772	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854588095	1724854588929	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854588730	1724854589005	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854588777	1724854589049	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854589055
+USER	Full User Journey on Firefox	START	1724854589100
+REQUEST		Search for a Computer	1724854588931	1724854589202	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854589008	1724854589282	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854588592	1724854589447	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854589208	1724854589480	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854589285	1724854589558	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854589566
+USER	Full User Journey on Firefox	START	1724854589598
+REQUEST		Search for a Computer	1724854589456	1724854589737	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854589487	1724854589759	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854589101	1724854589984	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854589753	1724854590033	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854589769	1724854590041	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854590052
+USER	Full User Journey on Firefox	START	1724854590097
+REQUEST		Search for a Computer	1724854589989	1724854590275	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854590035	1724854590322	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854589598	1724854590456	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854590282	1724854590572	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854590593
+REQUEST		Delete a Computer	1724854590328	1724854590608	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854590625
+REQUEST		Search for a Computer	1724854590469	1724854590751	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854590578	1724854590873	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854590098	1724854590978	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854590763	1724854591044	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854591101
+REQUEST		Delete a Computer	1724854590887	1724854591174	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854591180
+REQUEST		Search for a Computer	1724854590993	1724854591282	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854591055	1724854591336	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854590594	1724854591445	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854591288	1724854591578	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854591600
+REQUEST		Delete a Computer	1724854591350	1724854591628	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854591646
+REQUEST		Search for a Computer	1724854591459	1724854591739	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854591584	1724854591872	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854591101	1724854591956	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854591753	1724854592032	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854592094
+REQUEST		Delete a Computer	1724854591877	1724854592173	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854592188
+REQUEST		Search for a Computer	1724854591969	1724854592248	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854592047	1724854592330	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854591601	1724854592453	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854592263	1724854592543	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854592607
+REQUEST		Delete a Computer	1724854592340	1724854592619	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854592633
+REQUEST		Search for a Computer	1724854592463	1724854592743	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854592554	1724854592833	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854592094	1724854592944	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854592757	1724854593038	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854593098
+REQUEST		Delete a Computer	1724854592836	1724854593115	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854593129
+REQUEST		Search for a Computer	1724854592959	1724854593242	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854593052	1724854593334	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854592607	1724854593444	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854593255	1724854593536	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854593593
+REQUEST		Delete a Computer	1724854593346	1724854593627	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854593638
+REQUEST		Search for a Computer	1724854593454	1724854593732	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854593547	1724854593827	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854593098	1724854593926	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854593747	1724854594026	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854594101
+REQUEST		Delete a Computer	1724854593838	1724854594119	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854594132
+REQUEST		Search for a Computer	1724854593933	1724854594217	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854594039	1724854594318	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854593593	1724854594449	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854594225	1724854594496	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854594601
+REQUEST		Delete a Computer	1724854594334	1724854594617	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854594632
+REQUEST		Search for a Computer	1724854594459	1724854594739	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854594506	1724854594808	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854594102	1724854595005	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854595095
+REQUEST		View Computer Details	1724854594755	1724854595340	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854594816	1724854595340	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854595017	1724854595341	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854595355
+USER	Full User Journey on Firefox	START	1724854595602
+REQUEST		Add a New Computer	1724854595355	1724854595781	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854594601	1724854595781	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854595355	1724854595781	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854596096
+USER	Full User Journey on Firefox	START	1724854596601
+REQUEST		Delete a Computer	1724854595786	1724854596813	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854595786	1724854596813	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854595786	1724854596813	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854596817
+USER	Full User Journey on Firefox	START	1724854597093
+REQUEST		View Computer Details	1724854596817	1724854597133	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854596817	1724854597133	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854595096	1724854597134	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854595603	1724854597134	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854597139
+REQUEST		Search for a Computer	1724854597139	1724854597409	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854597139	1724854597418	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854596096	1724854597422	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854597139	1724854597428	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854597589
+REQUEST		Load Computers List	1724854596601	1724854597650	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854597416	1724854597687	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854597432	1724854597713	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854597432	1724854597720	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854597432	1724854597722	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854597730
+REQUEST		Search for a Computer	1724854597653	1724854597931	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854597699	1724854597972	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854597094	1724854597999	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854597729	1724854598016	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854597729	1724854598023	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854598101
+REQUEST		View Computer Details	1724854597947	1724854598229	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854597978	1724854598249	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854598256
+REQUEST		Search for a Computer	1724854598008	1724854598298	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854598024	1724854598314	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854598040	1724854598329	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854598333
+REQUEST		Load Computers List	1724854597589	1724854598446	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854598240	1724854598517	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854598301	1724854598591	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854598598
+REQUEST		Delete a Computer	1724854598317	1724854598604	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854598614
+REQUEST		Search for a Computer	1724854598456	1724854598737	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854598519	1724854598799	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854598814
+REQUEST		Add a New Computer	1724854598597	1724854598887	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854598101	1724854598959	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854598752	1724854599034	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854599090
+REQUEST		Delete a Computer	1724854598891	1724854599180	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854599184
+REQUEST		Search for a Computer	1724854598967	1724854599245	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854599045	1724854599324	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854598598	1724854599428	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854599260	1724854599541	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854599603
+REQUEST		Delete a Computer	1724854599338	1724854599619	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854599634
+REQUEST		Search for a Computer	1724854599431	1724854599704	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854599555	1724854599836	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854599711	1724854599984	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854599091	1724854599989	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854600097
+REQUEST		Delete a Computer	1724854599849	1724854600129	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854600145
+REQUEST		Add a New Computer	1724854599988	1724854600262	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854600004	1724854600296	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854599603	1724854600477	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854600268	1724854600547	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854600562
+REQUEST		View Computer Details	1724854600298	1724854600589	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854600608
+REQUEST		Search for a Computer	1724854600485	1724854600770	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854600591	1724854600887	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854600098	1724854600944	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854600775	1724854601063	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854601101
+REQUEST		Delete a Computer	1724854600901	1724854601193	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854601209
+REQUEST		Search for a Computer	1724854600947	1724854601225	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854601070	1724854601355	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854600609	1724854601463	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854601238	1724854601520	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854601593
+REQUEST		Delete a Computer	1724854601363	1724854601651	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854601656
+REQUEST		Search for a Computer	1724854601470	1724854601751	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854601531	1724854601811	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854601101	1724854601924	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854601763	1724854602045	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854602101
+REQUEST		Delete a Computer	1724854601825	1724854602105	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854602118
+REQUEST		Search for a Computer	1724854601933	1724854602202	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854602056	1724854602338	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854601593	1724854602473	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854602209	1724854602482	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854602595
+REQUEST		Delete a Computer	1724854602347	1724854602628	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854602640
+REQUEST		Add a New Computer	1724854602487	1724854602760	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854602487	1724854602776	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854602102	1724854602941	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854602763	1724854603033	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854603043
+REQUEST		View Computer Details	1724854602793	1724854603082	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854603089
+REQUEST		Search for a Computer	1724854602951	1724854603222	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854603088	1724854603376	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854602595	1724854603452	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854603228	1724854603498	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854603598
+REQUEST		Delete a Computer	1724854603382	1724854603690	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854603705
+REQUEST		Search for a Computer	1724854603458	1724854603738	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854603504	1724854603776	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854603089	1724854603980	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854603751	1724854604032	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854603781	1724854604054	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854604060
+USER	Full User Journey on Firefox	START	1724854604092
+REQUEST		Search for a Computer	1724854603982	1724854604270	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854604044	1724854604324	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854603598	1724854604444	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854604276	1724854604566	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854604599
+REQUEST		Delete a Computer	1724854604337	1724854604616	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854604630
+REQUEST		Search for a Computer	1724854604460	1724854604859	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854605092
+REQUEST		Add a New Computer	1724854604568	1724854605576	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854605608
+REQUEST		Load Computers List	1724854604092	1724854605679	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854604876	1724854605782	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854606091
+REQUEST		Add a New Computer	1724854605784	1724854606434	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854605693	1724854606434	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854605586	1724854606434	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854606445
+USER	Full User Journey on Firefox	START	1724854606599
+REQUEST		Load Computers List	1724854604599	1724854606795	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854606444	1724854606795	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854605093	1724854606796	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854606444	1724854606796	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854606799
+REQUEST		Search for a Computer	1724854606798	1724854607070	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854606798	1724854607080	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854606091	1724854607080	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854605608	1724854607083	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854606799	1724854607088	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854607090
+REQUEST		View Computer Details	1724854607074	1724854607347	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854607090	1724854607368	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854607090	1724854607368	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854607090	1724854607370	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854607090	1724854607375	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854607386
+REQUEST		Load Computers List	1724854606599	1724854607426	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854607601
+REQUEST		Add a New Computer	1724854607354	1724854607628	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854607385	1724854607663	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854607385	1724854607665	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854607385	1724854607676	KO	status.find.is(200), but actually found 429
+REQUEST		Search for a Computer	1724854607431	1724854607703	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854607631	1724854607902	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854607908
+REQUEST		Load Computers List	1724854607090	1724854607947	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854607677	1724854607954	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854607677	1724854607957	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854607692	1724854607979	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854607708	1724854607979	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854607984
+USER	Full User Journey on Firefox	START	1724854608092
+REQUEST		Search for a Computer	1724854607952	1724854608232	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854607967	1724854608246	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854607967	1724854608248	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854607983	1724854608254	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854608261
+USER	Full User Journey on Firefox	END	1724854608261
+REQUEST		Load Computers List	1724854607601	1724854608460	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854608245	1724854608526	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854608260	1724854608534	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854608538
+USER	Full User Journey on Firefox	START	1724854608616
+REQUEST		Search for a Computer	1724854608475	1724854608754	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854608537	1724854608818	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854608092	1724854608944	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854608769	1724854609048	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854609093
+REQUEST		Delete a Computer	1724854608830	1724854609111	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854609125
+REQUEST		Search for a Computer	1724854608954	1724854609235	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854609062	1724854609340	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854608616	1724854609448	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854609249	1724854609529	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854609590
+REQUEST		Delete a Computer	1724854609344	1724854609622	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854609637
+REQUEST		Search for a Computer	1724854609451	1724854609721	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854609544	1724854609825	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854609093	1724854609947	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854609728	1724854610001	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854610095
+REQUEST		Delete a Computer	1724854609834	1724854610113	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854610126
+REQUEST		Search for a Computer	1724854609957	1724854610238	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854610003	1724854610273	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854609590	1724854610441	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854610248	1724854610528	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854610279	1724854610550	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854610560
+USER	Full User Journey on Firefox	START	1724854610591
+REQUEST		Search for a Computer	1724854610451	1724854610731	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854610544	1724854610824	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854610095	1724854610971	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854610744	1724854611024	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854611100
+REQUEST		Delete a Computer	1724854610836	1724854611114	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854611130
+REQUEST		Search for a Computer	1724854610973	1724854611259	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854611035	1724854611317	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854610591	1724854611463	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854611269	1724854611558	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854611593
+REQUEST		Delete a Computer	1724854611330	1724854611612	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854611624
+REQUEST		Search for a Computer	1724854611469	1724854611757	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854611562	1724854611851	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854611100	1724854611965	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854611761	1724854612052	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854612100
+REQUEST		Delete a Computer	1724854611853	1724854612140	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854612147
+REQUEST		Search for a Computer	1724854611976	1724854612256	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854612054	1724854612344	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854611593	1724854612468	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854612268	1724854612548	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854612593
+REQUEST		Delete a Computer	1724854612346	1724854612635	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854612639
+REQUEST		Search for a Computer	1724854612484	1724854612771	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854612562	1724854612841	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854612100	1724854612927	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854612779	1724854613066	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	START	1724854613089
+REQUEST		Delete a Computer	1724854612856	1724854613134	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854613136
+REQUEST		Search for a Computer	1724854612933	1724854613205	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854613073	1724854613362	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854612593	1724854613449	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854613213	1724854613486	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854613369	1724854613662	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854613678
+REQUEST		Search for a Computer	1724854613461	1724854613740	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854613492	1724854613762	KO	status.find.is(200), but actually found 429
+REQUEST		Load Computers List	1724854613089	1724854613978	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854613755	1724854614034	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854613770	1724854614040	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854614051
+REQUEST		Search for a Computer	1724854613988	1724854614293	KO	status.find.is(200), but actually found 429
+REQUEST		Add a New Computer	1724854614050	1724854614330	KO	status.find.is(200), but actually found 429
+REQUEST		View Computer Details	1724854614300	1724854614914	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854614345	1724854615005	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854615022
+REQUEST		Add a New Computer	1724854614928	1724854615288	KO	status.find.is(200), but actually found 429
+REQUEST		Delete a Computer	1724854615300	1724854616130	KO	status.find.is(200), but actually found 429
+USER	Full User Journey on Firefox	END	1724854616133

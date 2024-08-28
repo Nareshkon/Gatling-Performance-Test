@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.check.ChromeBrowserTest",
+  "simulationId": "chromebrowsertest",
+  "start": 1724854178664,
+  "description": "ChromeTest",
+  "scenarios": ["Full User Journey"],
+  "assertions": [
+
+  ]
+}

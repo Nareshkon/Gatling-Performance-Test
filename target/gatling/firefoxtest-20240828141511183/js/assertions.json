@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.check.FirefoxTest",
+  "simulationId": "firefoxtest",
+  "start": 1724854511183,
+  "description": "FireFoxTest",
+  "scenarios": ["Full User Journey on Firefox"],
+  "assertions": [
+
+  ]
+}
